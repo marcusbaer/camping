@@ -6,11 +6,10 @@
 - [ ] Druckminderer sollte etwa alle zehn Jahre ausgetauscht werden
 - [ ] Füllstand der Gasflasche ermitteln
 - [ ] Mesh-Unterlage unter Matratze, https://www.ebay.de/itm/232670928046?hash=item362c449cae:g:f~4AAOSwzJ9f~G5h
-- [ ] Trittstufe
 - [ ] Sturmleinen
-- [ ] Schlauchschellen 8-16mm
-- [ ] 8mm? Schlauch
-- [ ] Trinkwasserschlauch
+- [X] Trittstufe
+- [X] Schlauchschellen 8-16mm
+- [X] Trinkwasserschlauch 10mm
 
 ## Packliste
 
