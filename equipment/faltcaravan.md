@@ -140,6 +140,10 @@ aus Wohnung
 - [ ] Aufbauanleitung für Falti
 - [ ] Sandspielzeug, Drachen
 - [ ] Bettzeug
+- [ ] Schlafsack Samuel
+- [ ] Schlafsack Emilia
+- [ ] Schlafsack Mama
+- [ ] Schlafsack Papa
 - [ ] Nottoilette + Beutel + Streu
 - [ ] Peltier-Kühlbox
 - [ ] Funkgeräte
@@ -147,6 +151,11 @@ aus Wohnung
 - [ ] Kaffeemaschine?
 - [ ] Kleber
 - [ ] Kleidung
+- [ ] Handtücher
+- [ ] Badetücher
+- [ ] Jacken
+- [ ] Sonnenbrillen und -hüte
+- [ ] Campingclogs
 - [ ] Müllbeutel
 - [ ] Sonnencreme
 - [ ] Stillkissen
