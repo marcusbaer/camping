@@ -2,22 +2,14 @@
 
 ## Offene Punkte
 
-- [ ] Datum der Gasflasche und ggf. Tausch
-- [ ] Druckminderer sollte etwa alle zehn Jahre ausgetauscht werden
-- [ ] Füllstand der Gasflasche ermitteln
+- [ ] Anleitung für Gasflasche anbauen
 - [ ] Mesh-Unterlage unter Matratze, https://www.ebay.de/itm/232670928046?hash=item362c449cae:g:f~4AAOSwzJ9f~G5h
-- [ ] Sturmleinen
-- [X] Trittstufe
-- [X] Schlauchschellen 8-16mm
-- [X] Trinkwasserschlauch 10mm
-
-## Besorgen
-
 - [ ] Sturmleinen
 - [ ] Kühlschrankersatz
 - [ ] Magnethaken
 - [ ] Batterien für Campinglampe
 - [ ] Campingschrank für Essen mit Ablage
+- [X] Trittstufe
 
 ## Aufgaben
 
@@ -25,7 +17,7 @@
 - [ ] Gasflasche tauschen
 - [ ] Zuladung wiegen
 - [ ] Luftdruck prüfen
-- [ ] Wasserhahn und Pumpe testen
+- [ ] Wasserhahn und -pumpe testen
 - [ ] Dachbox drauf
 - [ ] Platten und Verschraubung der Fahrradträger
 - [ ] Adressen regionaler Gartencenter, Baumärkte, Campingläden
@@ -136,9 +128,13 @@ aus Auto
 
 aus Wohnung
 
-- [ ] (Kissen)
+- [ ] Kopfkissen
 - [ ] Aufbauanleitung für Falti
 - [ ] Sandspielzeug, Drachen
+- [ ] Gesellschaftsspiele
+- [ ] Spielzeugauswahl
+- [ ] Bücher
+- [ ] DVD-Spieler?
 - [ ] Bettzeug
 - [ ] Schlafsack Samuel
 - [ ] Schlafsack Emilia
@@ -170,8 +166,121 @@ aus Wohnung
 
 ### In den Falti
 
+- [ ] Campingkiste
+  - [ ] 1 aufblasbares Kopfkissen
+  - [ ] 2 Fahrradschlösser
+  - [ ] 220V aufladbare Taschenlampe
+  - [ ] 220V Luftpumpe
+  - [ ] 3 kleine Schlafsäcke
+  - [ ] Adapter 1/2 Zoll auf 10mm
+  - [ ] Campinglaterne mit Batterien
+  - [ ] Erdbohrer für Sonnenschirm
+  - [ ] Falteimer
+  - [ ] Fußmatte
+  - [ ] Hängeorganizer
+  - [ ] Hängespiegel
+  - [ ] Heringe, Schnüre, Gummihammer in Tüte
+  - [ ] Kehrschaufel und -besen
+  - [ ] Kleber
+  - [ ] kleine Campingdusche
+  - [ ] kleine Campinglampen
+  - [ ] kleine Kabeltrommel
+  - [ ] Luftpumpe für Fahrrad
+  - [ ] Müllbeutel
+  - [ ] neuer Gummihammer
+  - [ ] Panzerband, Elektroband
+  - [ ] roter 15m Wasserschlauch
+  - [ ] roter 4-fach Verteiler
+  - [ ] roter Sattelschutz
+  - [ ] Schlauchschellen 8-16mm
+  - [ ] schwarzer Wasserkocher
+  - [ ] Spannseile für Fahrrad
+  - [ ] Verlängerungskabel, rote Stecker-Schutzbox
+  - [ ] Wäscheleine
+  - [ ] Wasseranschlüsse
+  - [ ] Wasserschläuche 10mm + Gartenschlauch + Spritze + Hahnanschluss
+
+- [ ] Fahrradträger
+  - [ ] 3 große Fahrräder (Hollandrad, lila MTB, silbernes MTB)
+  - [ ] Tigerbikel
+
+- [ ] ~~Wasserpackung~~
+- [ ] 2 große Faltstühle
+- [ ] 3 Campingstühle
+- [ ] 3 Wasserkanister (2x20l + 10l)
+- [ ] Bettzeug
+- [ ] blau gestreifter Schrank (Stoff, Gestänge und Ecken)
+- [ ] Bobbycar?
+- [ ] Camping-Tisch/Hocker-Kombination
+- [ ] Campingclogs
+- [ ] Elektroheizer
+- [ ] Gasflasche
+- [ ] gelber Kinder-Campingstuhl
+- [ ] Grill
+- [ ] große Folie
+- [ ] großes Strandzelt
+- [ ] grünes Wurfzelt
+- [ ] hellblauer Sonnenschirm
+- [ ] Kaffeemaschine?
+- [ ] Kochtopf?
+- [ ] neuer Klapptisch
+- [ ] Nottoilette + Beutel + Streu
+- [ ] Ohuhu-Partyzelt (mit Gewichten)
+- [ ] Sandspielzeug, Drachen
+- [ ] Schlafsack Emilia
+- [ ] Schlafsack Mama
+- [ ] Schlafsack Samuel
+- [ ] Schrankplatte für blau gestreiften Schrank
+- [ ] Sonnensegel
+- [ ] Stillkissen
+- [ ] Strandmatte
+- [ ] Strandmuschel
+- [ ] Töpfe, Geschirr und Besteck
+- [ ] Trittstufe
+- [ ] Unterlegkeile
+- [ ] Wäscheständer
+- [ ] Waschmaschine
+  - [ ] Badetücher
+- [ ] Wind- und Sichtschutz
+
 ### In die Dachbox
+
+- [ ] 2 Isomatten
+- [ ] 2 selbstaufblasende Luftmatrazen
+- [ ] Ball
+- [ ] Fahrradanhänger?
+- [ ] Fahrradhelme
+- [ ] Gaskocher inkl. 1 vollen Kartusche
+- [ ] Gummistiefel
+- [ ] Küchentücher
+- [ ] Sandspielzeug
+- [ ] Schlafsack Papa
+- [ ] Schwimmnudel mit Verschluss
+- [ ] Toilettenpapier
+- [ ] Töpfchen
+- [ ] Windeln
 
 ### In das Auto
 
-### In die Werkzeugkiste
+- [ ] Achslastwaage (Werkzeugfach)
+- [ ] Aufbauanleitung für Falti (Mittelkonsole)
+- [ ] blauer Campingstrom-Adapter (Mittelkonsole)
+- [ ] Bücher
+- [ ] DVD-Spieler?
+- [ ] Funkgeräte
+- [ ] Gesellschaftsspiele
+- [ ] Handtücher
+- [ ] Jacken
+- [ ] Kleidung
+- [ ] Kopfkissen
+- [ ] Kühlschrankersatz
+- [ ] Peltier-Kühlbox
+- [ ] Radio mit Ladekabel
+- [ ] Reifenflickzeug
+- [ ] Sonnenbrillen und -hüte
+- [ ] Sonnencreme
+- [ ] Spielzeugauswahl
+- [ ] Taschenmesser (Mittelkonsole)
+- [ ] Telefone, Smartphones mit SD-Karten und Ladekabel
+- [ ] Wasserwaage (Werkzeugfach)
+- [ ] Werkzeugtüte: Inbus-Set, Knochen, Zangen (Spitz + Kneifen + Klapptool), Hammer, Schraubendreher (kreuz + flach, Strom), Fahrrad-Multitool (Werkzeugfach)
