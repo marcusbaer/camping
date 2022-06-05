@@ -32,14 +32,14 @@ vorsortiert in großer Box aus Keller
 - [x] Strandmuschel
 - [x] Wind- und Sichtschutz
 - [x] kleine Campingdusche
-- [x] roter 4-fach Verteiler
+- [x] roter 4-fach Verteiler
 - [x] Verlängerungskabel, rote Stecker-Schutzbox
 - [x] kleine Campinglampen
-- [x] Campinglaterne mit Batterien
+- [x] Campinglaterne mit Batterien
 - [x] kleine Kabeltrommel
-- [x] Erdbohrer für Sonnenschirm
-- [x] 3 kleine Schlafsäcke
-- [x] Wäscheleine
+- [x] Erdbohrer für Sonnenschirm
+- [x] 3 kleine Schlafsäcke
+- [x] Wäscheleine
 - [x] schwarzer Wasserkocher
 - [x] Spannseile für Fahrrad
 - [x] 2 Fahrradschlösser
@@ -76,12 +76,12 @@ aus Keller allgemein
 - [ ] 3 große Fahrräder (Hollandrad, lila MTB, silbernes MTB)
 - [ ] Bobbycar?
 - [x] 2 große Faltstühle
-- [x] 2 Isomatten
+- [x] 2 Isomatten
 - [x] 2 selbstaufblasende Luftmatrazen
 - [x] 3 Campingstühle
 - [x] Ball
 - [x] blau gestreifter Schrank (Stoff, Gestänge und Ecken)
-- [x] Camping-Tisch/Hocker-Kombination
+- [x] Camping-Tisch/Hocker-Kombination
 - [ ] Fahrradhelme
 - [ ] Gasflasche
 - [x] Grill
@@ -90,7 +90,7 @@ aus Keller allgemein
 - [ ] Panzerband, Elektroband
 - [ ] Schrankplatte für blau gestreiften Schrank
 - [x] Schwimmnudel mit Verschluss
-- [x] hellblauer Sonnenschirm
+- [x] hellblauer Sonnenschirm
 - [x] Toilettenpapier
 - [ ] Töpfe, Geschirr und Besteck
 - [ ] Kochtopf?
@@ -114,7 +114,7 @@ aus Garage
 
 aus Garten
 
-- [ ] Gaskocher inkl. 1 vollen Kartusche
+- [ ] Gaskocher inkl. 1 vollen Kartusche
 - [ ] großes Strandzelt
 - [ ] Töpfchen
 
@@ -141,7 +141,7 @@ aus Wohnung
 - [ ] Schlafsack Mama
 - [ ] Schlafsack Papa
 - [ ] Nottoilette + Beutel + Streu
-- [ ] Peltier-Kühlbox
+- [ ] Peltier-Kühlbox
 - [ ] Funkgeräte
 - [ ] Gummistiefel
 - [ ] Kaffeemaschine?
@@ -153,7 +153,7 @@ aus Wohnung
 - [ ] Sonnenbrillen und -hüte
 - [ ] Campingclogs
 - [ ] Müllbeutel
-- [ ] Sonnencreme
+- [ ] Sonnencreme
 - [ ] Stillkissen
 - [ ] Wäscheständer
 - [ ] Waschmaschine
@@ -171,15 +171,15 @@ aus Wohnung
   - [ ] 2 Fahrradschlösser
   - [ ] 220V aufladbare Taschenlampe
   - [ ] 220V Luftpumpe
-  - [ ] 3 kleine Schlafsäcke
+  - [ ] 3 kleine Schlafsäcke
   - [ ] Adapter 1/2 Zoll auf 10mm
-  - [ ] Campinglaterne mit Batterien
-  - [ ] Erdbohrer für Sonnenschirm
+  - [ ] Campinglaterne mit Batterien
+  - [ ] Erdbohrer für Sonnenschirm
   - [ ] Falteimer
   - [ ] Fußmatte
   - [ ] Hängeorganizer
   - [ ] Hängespiegel
-  - [ ] Heringe, Schnüre, Gummihammer in Tüte
+  - [ ] Heringe, Schnüre, Gummihammer in Tüte
   - [ ] Kehrschaufel und -besen
   - [ ] Kleber
   - [ ] kleine Campingdusche
@@ -190,13 +190,13 @@ aus Wohnung
   - [ ] neuer Gummihammer
   - [ ] Panzerband, Elektroband
   - [ ] roter 15m Wasserschlauch
-  - [ ] roter 4-fach Verteiler
+  - [ ] roter 4-fach Verteiler
   - [ ] roter Sattelschutz
   - [ ] Schlauchschellen 8-16mm
   - [ ] schwarzer Wasserkocher
   - [ ] Spannseile für Fahrrad
   - [ ] Verlängerungskabel, rote Stecker-Schutzbox
-  - [ ] Wäscheleine
+  - [ ] Wäscheleine
   - [ ] Wasseranschlüsse
   - [ ] Wasserschläuche 10mm + Gartenschlauch + Spritze + Hahnanschluss
 
@@ -211,7 +211,7 @@ aus Wohnung
 - [ ] Bettzeug
 - [ ] blau gestreifter Schrank (Stoff, Gestänge und Ecken)
 - [ ] Bobbycar?
-- [ ] Camping-Tisch/Hocker-Kombination
+- [ ] Camping-Tisch/Hocker-Kombination
 - [ ] Campingclogs
 - [ ] Elektroheizer
 - [ ] Gasflasche
@@ -220,7 +220,7 @@ aus Wohnung
 - [ ] große Folie
 - [ ] großes Strandzelt
 - [ ] grünes Wurfzelt
-- [ ] hellblauer Sonnenschirm
+- [ ] hellblauer Sonnenschirm
 - [ ] Kaffeemaschine?
 - [ ] Kochtopf?
 - [ ] neuer Klapptisch
@@ -234,7 +234,7 @@ aus Wohnung
 - [ ] Sonnensegel
 - [ ] Stillkissen
 - [ ] Strandmatte
-- [ ] Strandmuschel
+- [ ] Strandmuschel
 - [ ] Töpfe, Geschirr und Besteck
 - [ ] Trittstufe
 - [ ] Unterlegkeile
@@ -245,12 +245,12 @@ aus Wohnung
 
 ### In die Dachbox
 
-- [ ] 2 Isomatten
+- [ ] 2 Isomatten
 - [ ] 2 selbstaufblasende Luftmatrazen
 - [ ] Ball
 - [ ] Fahrradanhänger?
 - [ ] Fahrradhelme
-- [ ] Gaskocher inkl. 1 vollen Kartusche
+- [ ] Gaskocher inkl. 1 vollen Kartusche
 - [ ] Gummistiefel
 - [ ] Küchentücher
 - [ ] Sandspielzeug
@@ -274,13 +274,13 @@ aus Wohnung
 - [ ] Kleidung
 - [ ] Kopfkissen
 - [ ] Kühlschrankersatz
-- [ ] Peltier-Kühlbox
+- [ ] Peltier-Kühlbox
 - [ ] Radio mit Ladekabel
 - [ ] Reifenflickzeug
 - [ ] Sonnenbrillen und -hüte
-- [ ] Sonnencreme
+- [ ] Sonnencreme
 - [ ] Spielzeugauswahl
 - [ ] Taschenmesser (Mittelkonsole)
 - [ ] Telefone, Smartphones mit SD-Karten und Ladekabel
 - [ ] Wasserwaage (Werkzeugfach)
-- [ ] Werkzeugtüte: Inbus-Set, Knochen, Zangen (Spitz + Kneifen + Klapptool), Hammer, Schraubendreher (kreuz + flach, Strom), Fahrrad-Multitool (Werkzeugfach)
+- [ ] Werkzeugtüte (Werkzeugfach) mit Inbus-Set, Knochen, Zangen (Spitz + Kneifen + Klapptool), Hammer, Schraubendreher (kreuz + flach, Strom), Fahrrad-Multitool
