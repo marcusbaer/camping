@@ -13,13 +13,16 @@
 
 ## Aufgaben
 
+- [ ] Abwasserschlauch testen
+- [ ] Frischwasserschlauch testen
+- [ ] Trittstufe testen
+- [ ] Wasserhahn und -pumpe testen
+- [ ] Platten und Verschraubung der Fahrradträger
 - [ ] Basisgewicht des Anhängers bestimmen
 - [ ] Gasflasche tauschen
 - [ ] Zuladung wiegen
 - [ ] Luftdruck prüfen
-- [ ] Wasserhahn und -pumpe testen
 - [ ] Dachbox drauf
-- [ ] Platten und Verschraubung der Fahrradträger
 - [ ] Adressen regionaler Gartencenter, Baumärkte, Campingläden
 
 ## Packliste
