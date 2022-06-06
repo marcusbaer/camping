@@ -44,7 +44,7 @@ vorsortiert in großer Box aus Keller
 - [x] Sonnensegel
 - [x] Spannseile für Fahrrad
 - [x] Strandmatte
-- [x] Strandmuschel
+- [x] Strandmuschel
 - [x] Stromverteiler rot 4-fach
 - [x] Taschenlampe 220V aufladbar
 - [x] Verlängerungskabel, rote Stecker-Schutzbox
@@ -59,7 +59,7 @@ aus Werkzeugkiste
 - [ ] Reifenflickzeug
 - [x] Campingstrom-Adapter blau (in Mittelkonsole)
 - [x] Gummihammer neu
-- [x] Heringe, Schnüre, Gummihammer in Tüte
+- [ ] Heringe, Schnüre, Gummihammer in Tüte
 - [x] Knochen
 - [x] Schlauchschellen 8-16mm
 - [x] Taschenmesser
