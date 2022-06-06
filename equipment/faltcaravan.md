@@ -66,7 +66,6 @@ aus Werkzeugkiste
 - [x] Knochen
 - [x] Schlauchschellen 8-16mm
 - [x] Taschenmesser
-- [x] Taschenmesser
 - [x] Wasseranschlüsse
 - [x] Werkzeugtüte (Werkzeugfach) mit Inbus-Set, Knochen, Zangen (Spitz + Kneifen + Klapptool), Hammer, Schraubendreher (kreuz + flach, Strom), Fahrrad-Multitool
 
@@ -106,8 +105,8 @@ aus Keller allgemein
 
 aus Falti
 
-- [ ] Elektroheizer
-- [ ] Unterlegkeile
+- [x] Elektroheizer
+- [x] Unterlegkeile
 
 aus Garage
 
@@ -132,6 +131,7 @@ aus Auto
 aus Wohnung
 
 - [ ] Aufbauanleitung für Falti
+- [ ] Badeschuhe
 - [ ] Badetücher
 - [ ] Bettzeug
 - [ ] Bücher
@@ -147,24 +147,24 @@ aus Wohnung
 - [ ] Kleber
 - [ ] Kleidung
 - [ ] Kopfkissen
-- [ ] Luftpumpe 220V
 - [ ] Müllbeutel
-- [ ] Nottoilette + Beutel + Streu
 - [ ] Peltier-Kühlbox
 - [ ] Radio mit Ladekabel
 - [ ] Sandspielzeug, Drachen
 - [ ] Schlafsack Emilia
 - [ ] Schlafsack Mama
-- [ ] Schlafsack Papa
-- [ ] Schlafsack Samuel
 - [ ] Sonnenbrillen und -hüte
 - [ ] Sonnencreme
 - [ ] Spielzeugauswahl
 - [ ] Stillkissen
 - [ ] Telefone, Smartphones mit SD-Karten und Ladekabel
 - [ ] Wäscheständer
-- [ ] Waschmaschine
 - [ ] Wasserwaage
+- [x] Luftpumpe 220V
+- [x] Nottoilette + Beutel + Streu
+- [x] Schlafsack Papa
+- [x] Schlafsack Samuel
+- [x] Waschmaschine
 
 ## Stauliste
 
@@ -209,6 +209,7 @@ aus Wohnung
   - [ ] Tigerbikel
 
 - [ ] ~~Wasserpackung~~
+- [ ] Badeschuhe
 - [ ] Bettzeug
 - [ ] Bobbycar?
 - [ ] Camping-Tisch/Hocker-Kombination
