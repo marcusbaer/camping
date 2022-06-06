@@ -31,41 +31,40 @@ vorsortiert in großer Box aus Keller
 - [x] Strandmatte
 - [x] Strandmuschel
 - [x] Wind- und Sichtschutz
-- [x] kleine Campingdusche
-- [x] roter 4-fach Verteiler
+- [x] Campingdusche klein
+- [x] Stromverteiler rot 4-fach
 - [x] Verlängerungskabel, rote Stecker-Schutzbox
-- [x] kleine Campinglampen
+- [x] Campinglampen klein
 - [x] Campinglaterne mit Batterien
-- [x] kleine Kabeltrommel
+- [x] Kabeltrommel klein
 - [x] Erdbohrer für Sonnenschirm
-- [x] 3 kleine Schlafsäcke
+- [x] Schlafsäcke 3x kleine als Decken
 - [x] Wäscheleine
-- [x] schwarzer Wasserkocher
+- [x] Wasserkocher schwarz
 - [x] Spannseile für Fahrrad
-- [x] 2 Fahrradschlösser
+- [x] Fahrradschlösser 2x
 - [x] Hängeorganizer
 - [x] Hängespiegel
-- [x] 220V aufladbare Taschenlampe
-- [x] roter 15m Wasserschlauch
-- [x] 1 aufblasbares Kopfkissen
+- [x] Taschenlampe 220V aufladbar
+- [x] Wasserschlauch rot 15m
+- [x] Kopfkissen aufblasbar 1x
 - [x] Falteimer
-- [x] roter Sattelschutz
+- [x] Sattelschutz rot
 - [x] Kehrschaufel und -besen
 - [ ] Luftpumpe für Fahrrad
 
 aus Werkzeugkiste
 
-- [x] blauer Campingstrom-Adapter (in Mittelkonsole)
+- [x] Campingstrom-Adapter blau (in Mittelkonsole)
 - [x] Taschenmesser
 - [x] Heringe, Schnüre, Gummihammer in Tüte
-- [x] Inbus-Set, Knochen, Zangen (Spitz + Kneifen + Klapptool), Hammer, Schraubendreher (kreuz + flach, Strom)
+- [x] Werkzeugtüte (Werkzeugfach) mit Inbus-Set, Knochen, Zangen (Spitz + Kneifen + Klapptool), Hammer, Schraubendreher (kreuz + flach, Strom), Fahrrad-Multitool
 - [ ] Kneifzange (weg, wenn erledigt)
-- [x] neuer Gummihammer
+- [x] Gummihammer neu
 - [x] Taschenmesser
 - [x] Knochen
 - [x] Wasseranschlüsse
 - [x] Schlauchschellen 8-16mm
-- [x] Fahrrad-Multitool
 - [ ] Reifenflickzeug
 
 aus Keller allgemein
@@ -73,32 +72,32 @@ aus Keller allgemein
 - [ ] Dachbox
 - [ ] Fahrradträger
 - [ ] Tigerbikel
-- [ ] 3 große Fahrräder (Hollandrad, lila MTB, silbernes MTB)
+- [ ] Fahrräder groß (Hollandrad, lila MTB, silbernes MTB)
 - [ ] Bobbycar?
-- [x] 2 große Faltstühle
-- [x] 2 Isomatten
-- [x] 2 selbstaufblasende Luftmatrazen
-- [x] 3 Campingstühle
+- [x] Faltstühle groß 2x
+- [x] Isomatten 2x
+- [x] Luftmatrazen selbstaufblasend 2x
+- [x] Campingstühle 3x
 - [x] Ball
-- [x] blau gestreifter Schrank (Stoff, Gestänge und Ecken)
+- [x] Schrank blau gestreift (Stoff, Gestänge und Ecken)
 - [x] Camping-Tisch/Hocker-Kombination
 - [ ] Fahrradhelme
 - [ ] Gasflasche
 - [x] Grill
 - [x] Küchentücher
-- [x] neuer Klapptisch
+- [x] Campingtisch neu
 - [ ] Panzerband, Elektroband
 - [ ] Schrankplatte für blau gestreiften Schrank
 - [x] Schwimmnudel mit Verschluss
-- [x] hellblauer Sonnenschirm
+- [x] Sonnenschirm hellblau
 - [x] Toilettenpapier
 - [ ] Töpfe, Geschirr und Besteck
 - [ ] Kochtopf?
-- [x] 3 Wasserkanister (2x20l + 10l)
+- [x] Wasserkanister 3x (2x20l + 10l)
 - [ ] ~~Wasserpackung~~
 - [x] Windeln
-- [x] grünes Wurfzelt
-- [x] große Folie
+- [x] Wurfzelt grün
+- [x] Plane groß
 - [ ] Ohuhu-Partyzelt (mit Gewichten)
 - [ ] Kühlschrankersatz
 
@@ -115,19 +114,21 @@ aus Garage
 aus Garten
 
 - [ ] Gaskocher inkl. 1 vollen Kartusche
-- [ ] großes Strandzelt
+- [ ] Strandzelt groß
 - [ ] Töpfchen
 
 aus Auto
 
 - [x] Achslastwaage
-- [x] gelber Kinder-Campingstuhl
+- [x] Kinder-Campingstuhl gelb
 - [ ] Trittstufe
-- [ ] Wasserschläuche 10mm + Gartenschlauch + Spritze + Hahnanschluss
+- [ ] Wasserschläuche 10mm + Abwasser + Gartenschlauch + Spritze + Hahnanschluss
 - [ ] Adapter 1/2 Zoll auf 10mm
+- [ ] Maxi-Taxi
 
 aus Wohnung
 
+- [ ] Fahrzeugschein und TÜV von Falti
 - [ ] Kopfkissen
 - [ ] Aufbauanleitung für Falti
 - [ ] Sandspielzeug, Drachen
@@ -158,7 +159,7 @@ aus Wohnung
 - [ ] Wäscheständer
 - [ ] Waschmaschine
 - [ ] Wasserwaage
-- [ ] 220V Luftpumpe
+- [ ] Luftpumpe 220V
 - [ ] Radio mit Ladekabel
 - [ ] Telefone, Smartphones mit SD-Karten und Ladekabel
 
@@ -167,11 +168,11 @@ aus Wohnung
 ### In den Falti
 
 - [ ] Campingkiste
-  - [ ] 1 aufblasbares Kopfkissen
-  - [ ] 2 Fahrradschlösser
-  - [ ] 220V aufladbare Taschenlampe
-  - [ ] 220V Luftpumpe
-  - [ ] 3 kleine Schlafsäcke
+  - [ ] Kopfkissen aufblasbar 1x
+  - [ ] Fahrradschlösser 2x
+  - [ ] Taschenlampe 220V aufladbar
+  - [ ] Luftpumpe 220V
+  - [ ] Schlafsäcke 3x kleine als Decken
   - [ ] Adapter 1/2 Zoll auf 10mm
   - [ ] Campinglaterne mit Batterien
   - [ ] Erdbohrer für Sonnenschirm
@@ -182,18 +183,18 @@ aus Wohnung
   - [ ] Heringe, Schnüre, Gummihammer in Tüte
   - [ ] Kehrschaufel und -besen
   - [ ] Kleber
-  - [ ] kleine Campingdusche
-  - [ ] kleine Campinglampen
-  - [ ] kleine Kabeltrommel
+  - [ ] Campingdusche klein
+  - [ ] Campinglampen klein
+  - [ ] Kabeltrommel klein
   - [ ] Luftpumpe für Fahrrad
   - [ ] Müllbeutel
-  - [ ] neuer Gummihammer
+  - [ ] Gummihammer neu
   - [ ] Panzerband, Elektroband
-  - [ ] roter 15m Wasserschlauch
-  - [ ] roter 4-fach Verteiler
-  - [ ] roter Sattelschutz
+  - [ ] Wasserschlauch rot 15m
+  - [ ] Stromverteiler rot 4-fach
+  - [ ] Sattelschutz rot
   - [ ] Schlauchschellen 8-16mm
-  - [ ] schwarzer Wasserkocher
+  - [ ] Wasserkocher schwarz
   - [ ] Spannseile für Fahrrad
   - [ ] Verlängerungskabel, rote Stecker-Schutzbox
   - [ ] Wäscheleine
@@ -201,29 +202,29 @@ aus Wohnung
   - [ ] Wasserschläuche 10mm + Gartenschlauch + Spritze + Hahnanschluss
 
 - [ ] Fahrradträger
-  - [ ] 3 große Fahrräder (Hollandrad, lila MTB, silbernes MTB)
+  - [ ] Fahrräder groß (Hollandrad, lila MTB, silbernes MTB)
   - [ ] Tigerbikel
 
 - [ ] ~~Wasserpackung~~
-- [ ] 2 große Faltstühle
-- [ ] 3 Campingstühle
-- [ ] 3 Wasserkanister (2x20l + 10l)
+- [ ] Faltstühle groß 2x
+- [ ] Campingstühle 3x
+- [ ] Wasserkanister 3x (2x20l + 10l)
 - [ ] Bettzeug
-- [ ] blau gestreifter Schrank (Stoff, Gestänge und Ecken)
+- [ ] Schrank blau gestreift (Stoff, Gestänge und Ecken)
 - [ ] Bobbycar?
 - [ ] Camping-Tisch/Hocker-Kombination
 - [ ] Campingclogs
 - [ ] Elektroheizer
 - [ ] Gasflasche
-- [ ] gelber Kinder-Campingstuhl
+- [ ] Kinder-Campingstuhl gelb
 - [ ] Grill
-- [ ] große Folie
-- [ ] großes Strandzelt
-- [ ] grünes Wurfzelt
-- [ ] hellblauer Sonnenschirm
+- [ ] Plane groß
+- [ ] Strandzelt groß
+- [ ] Wurfzelt grün
+- [ ] Sonnenschirm hellblau
 - [ ] Kaffeemaschine?
 - [ ] Kochtopf?
-- [ ] neuer Klapptisch
+- [ ] Campingtisch neu
 - [ ] Nottoilette + Beutel + Streu
 - [ ] Ohuhu-Partyzelt (mit Gewichten)
 - [ ] Sandspielzeug, Drachen
@@ -245,8 +246,8 @@ aus Wohnung
 
 ### In die Dachbox
 
-- [ ] 2 Isomatten
-- [ ] 2 selbstaufblasende Luftmatrazen
+- [ ] Isomatten 2x
+- [ ] Luftmatrazen selbstaufblasend 2x
 - [ ] Ball
 - [ ] Fahrradanhänger?
 - [ ] Fahrradhelme
@@ -259,9 +260,11 @@ aus Wohnung
 - [ ] Toilettenpapier
 - [ ] Töpfchen
 - [ ] Windeln
+- [ ] Maxi-Taxi
 
 ### In das Auto
 
+- [ ] Fahrzeugschein und TÜV von Falti
 - [ ] Achslastwaage (Werkzeugfach)
 - [ ] Aufbauanleitung für Falti (Mittelkonsole)
 - [ ] blauer Campingstrom-Adapter (Mittelkonsole)
