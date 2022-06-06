@@ -206,7 +206,6 @@ aus Wohnung
 
 - [ ] Fahrradträger
   - [ ] Fahrräder groß (Hollandrad, lila MTB, silbernes MTB)
-  - [ ] Tigerbikel
 
 - [ ] ~~Wasserpackung~~
 - [ ] Badeschuhe
@@ -262,6 +261,7 @@ aus Wohnung
 - [ ] Sandspielzeug
 - [ ] Schlafsack Papa
 - [ ] Schwimmnudel mit Verschluss
+- [ ] Tigerbikel
 - [ ] Toilettenpapier
 - [ ] Töpfchen
 - [ ] Windeln
