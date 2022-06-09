@@ -1,55 +1,69 @@
-<html>
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>Camping</title>
+    <style>
+        html { font-family: sans-serif; font-size: 20px; }
+        body { background: rgb(58, 50, 50); color: white; }
+    </style>
+    <link rel="icon" href="./icon.svg" type="image/svg+xml">
+    <link rel="manifest" href="manifest.json">
+    <script src="./vendor/markdown-it.min.js"></script>
+    <script type="module" src="./components/essential.js" async></script>
+    <script type="module">
+        import { installer, serviceWorker } from './modules/pwa.js';
+        import './components/critical.js';
+
+        const renderPage = () => {
+            if (navigator.share) {
+                shareButton.addEventListener('click', () => {
+                    const url = new URL(location.href);
+                    navigator.share({
+                        title: 'PWA',
+                        text: 'This cool PWA also supports new windows',
+                        url: url.href,
+                    })
+                    .then(() => console.log('Successful share'))
+                    .catch((error) => console.log('Error sharing', error));
+                });
+            } else {
+                shareButton.style.display = "none";
+            }
+
+            const newWindowButton = document.querySelector('#new');
+            const windows = [];
+            newWindowButton.addEventListener('click', (event) => {
+                const counter = windows.length + 1;
+                const handler = window.open(`./details.html?counter=${counter}`, `window-${counter}`, `height=600, width=400, left=${counter * 40 + 100}, top=${counter * 40 + 100}, menubar=no, status=no, location=no, titlebar=no`);
+                windows.push(handler);
+            });
+        }
+
+        (async () => {
+            const serviceWorkerRegistration = await serviceWorker('./sw.js', './');
+            installer('#installButton');
+
+            renderPage();
+        })()
+    </script>
+</head>
 <body>
-<h1>Zelten</h1>
-<h2>Basisausstattung</h2>
-<p>3 Tage, 15/25°C, wenig Regen, mäßiger Wind</p>
-<ul>
-<li>2 Wurfzelte</li>
-<li>Heringe, Schnüre, Gummihammer</li>
-<li>2 Isomatten</li>
-<li>Luftpumpe für Bett</li>
-<li>kleines und doppeltes Luftbett</li>
-<li>3 Schlafsäcke</li>
-<li>1 Gaskocher inkl. 1 vollen Kartusche</li>
-<li>Geschirr und Besteck</li>
-<li>Taschenmesser</li>
-<li>Strandmuschel</li>
-</ul>
-<h2>Erweiterung für 1 Woche</h2>
-<p>1 Woche, sonnig 15/25°C, wenig Regen, mäßiger Wind</p>
-<ul>
-<li>Camping-Tisch/Hocker-Kombination</li>
-<li>Sonnensegel</li>
-<li>zweite Gaskartusche</li>
-<li>einfache Kühlbox</li>
-<li>1-2 aufblasbare Matten</li>
-<li>Campinglaterne</li>
-<li>Wäscheleine</li>
-</ul>
-<h2>Erweiterung für 2 Wochen</h2>
-<ul>
-<li>dritte Gaskartusche</li>
-<li>Müllbeutel</li>
-</ul>
-<h2>viel Sonne</h2>
-<ul>
-<li>Sonnenschirm</li>
-<li>Sonnenschirmständer</li>
-<li>Sonnencreme</li>
-</ul>
-<h2>Stromanschluss</h2>
-<ul>
-<li>Stromadapter</li>
-<li>4-fach Verteiler</li>
-<li>Verlängerungskabel</li>
-<li>Strom-Kühlbox</li>
-</ul>
-<h2>Extras</h2>
-<ul>
-<li>(großes) Gemeinschaftszelt</li>
-<li>2 Decken</li>
-<li>Klapptisch</li>
-<li>Campingstühle</li>
-</ul>
+    <header>CAMPING</header>
+    <main>
+        <h1>Hello from Camping</h1>
+        <button id="new">Open New Window</button>
+        <image-list></image-list>
+        <!-- <qr-scanner></qr-scanner> -->
+        <hr>
+    </main>
+    <footer>
+        <button id="installButton">Install App</button>
+        <button id="shareButton">Share</button>
+    </footer>
 </body>
 </html>

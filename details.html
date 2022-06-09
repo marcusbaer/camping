@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>Details</title>
+    <style>
+        html { font-family: sans-serif; font-size: 20px; }
+        body { background: rgb(58, 50, 50); color: white; }
+    </style>
+    <link rel="icon" href="./icon.svg" type="image/svg+xml">
+    <script src="./vendor/markdown-it.min.js"></script>
+    <script type="module" src="./components/essential.js" async></script>
+    <script type="module">
+        import './components/critical.js';
+
+        const queryString = window.location.search
+        const urlParams = new URLSearchParams(queryString)
+        const counter = urlParams.get('counter')
+        document.querySelector('title').innerText += ` ${counter}`
+        document.querySelector('h1').innerText += ` ${counter}`
+    </script>
+</head>
+
+<body>
+    <main>
+        <h1>Details</h1>
+        <praizee-slides src="./equipment/faltcaravan-summary.md" start="0" title="Faltcaravan" logo="./icon.svg"></praizee-demo>
+    </main>
+</body>
+
+</html>

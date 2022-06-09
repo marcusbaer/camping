@@ -1,0 +1,44 @@
+<html>
+
+<head>
+    <title>Camping Share</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="module">
+        // share.html?name={webshare.title}&description={webshare.text}&link={webshare.url}
+        const queryString = window.location.search
+        const urlParams = new URLSearchParams(queryString)
+        if (queryString) {
+            const shared = {
+                name: urlParams.get('name'),
+                description: urlParams.get('description'),
+                link: urlParams.get('link')
+            }
+            const info = document.querySelector('#info')
+            const link = document.querySelector('#link')
+            info.textContent = `App ${shared.name} says "${shared.description}" and provides the link ${shared.link}`
+            link.setAttribute('href', shared.link)
+        } else {
+            link.style.display = "none";
+        }
+    </script>
+    <style>
+        html {
+            font-size: 20px;
+        }
+
+        body {
+            background: #3a3232;
+            color: rgba(255, 255, 255, 0.8);
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Shared with Camping</h1>
+    <p>Shared with this app:</p>
+    <p id="info"></p>
+    <a id="link" href="#">Open shared link</a>
+</body>
+
+</html>

@@ -94,6 +94,8 @@ aus Keller allgemein
 - [x] Isomatten 2x
 - [x] Küchentücher
 - [x] Luftmatrazen selbstaufblasend 2x
+- [ ] Maulschlüssel 13er
+- [ ] Maulschlüssel 17er
 - [x] Plane groß
 - [x] Schrank blau gestreift (Stoff, Gestänge und Ecken)
 - [x] Schwimmnudel mit Verschluss
@@ -165,6 +167,34 @@ aus Wohnung
 - [x] Schlafsack Papa
 - [x] Schlafsack Samuel
 - [x] Waschmaschine
+
+- [ ] Emailletassen
+- [ ] Federball
+- [ ] Hüpfball
+- [ ] gelber Bagger
+- [ ] Wasserspritze
+- [ ] Fahrradsitz Daniel
+- [ ] Wäscheklammern
+- [ ] Tiegel
+- [ ] Schüssel
+- [ ] Müllständer
+- [ ] Kühlschrank 40l
+- [ ] Gasanzünder
+- [ ] Badputzmittel
+- [ ] Putzlappen
+- [ ] Desinfektion
+- [ ] Badelatschen
+- [ ] Reisefön
+- [ ] Rasierer
+- [ ] großer Campingpavillon
+- [ ] neue Töpfe
+- [ ] Bettlaken (welche Größe?)
+- [ ] Decken
+- [ ] Handtücher
+- [ ] Kreditkarte
+- [ ] WLAN-Router
+- [ ] Taschentücher
+- [ ] Seife
 
 ## Stauliste
 
@@ -281,6 +311,8 @@ aus Wohnung
 - [ ] Kleidung
 - [ ] Kopfkissen
 - [ ] Kühlschrankersatz
+- [ ] Maulschlüssel 13er
+- [ ] Maulschlüssel 17er
 - [ ] Peltier-Kühlbox
 - [ ] Radio mit Ladekabel
 - [ ] Reifenflickzeug
