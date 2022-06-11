@@ -207,7 +207,7 @@ unsortiert
 
 ### In den Falti
 
-- [ ] Campingkiste
+- [ ] Campingkiste (25kg)
   - [ ] Adapter 1/2 Zoll auf 10mm
   - [ ] Campingdusche klein
   - [ ] Campinglampen klein
@@ -242,47 +242,48 @@ unsortiert
   - [ ] Wasserschläuche 10mm + Gartenschlauch + Spritze + Hahnanschluss
 
 - [ ] Fahrradträger
-  - [ ] Fahrräder groß (Hollandrad, lila MTB, silbernes MTB)
+  - [ ] Fahrräder groß (Hollandrad, lila MTB, silbernes MTB) (3x20kg = 60kg)
 
 - [ ] ~~Wasserpackung~~
 - [ ] Badeschuhe
 - [ ] Bettzeug
-- [ ] Bobbycar?
-- [ ] Camping-Tisch/Hocker-Kombination
+- [ ] ~~Bobbycar?~~
+- [ ] Camping-Tisch/Hocker-Kombination (12kg)
 - [ ] Campingclogs
-- [ ] Campingstühle 3x
-- [ ] Campingtisch neu
-- [ ] Elektroheizer
-- [ ] Faltstühle groß 2x
-- [ ] Gasflasche
-- [ ] Grill
-- [ ] Kaffeemaschine?
-- [ ] Kinder-Campingstuhl gelb
+- [ ] Campingstühle 3x (12kg)
+- [ ] Campingtisch neu (5kg)
+- [ ] Elektroheizer (4kg)
+- [ ] Faltstühle groß 2x (12kg)
+- [ ] Gasflasche (12kg)
+- [ ] Grill (3kg)
+- [ ] ~~Kaffeemaschine?~~
+- [ ] Kinder-Campingstuhl gelb (1kg)
 - [ ] Kochtopf?
-- [ ] Nottoilette + Beutel + Streu
-- [ ] Ohuhu-Partyzelt (mit Gewichten)
-- [ ] Plane groß
-- [ ] Sandspielzeug, Drachen
-- [ ] Schlafsack Emilia
-- [ ] Schlafsack Mama
-- [ ] Schlafsack Samuel
-- [ ] Schrank blau gestreift (Stoff, Gestänge und Ecken)
+- [ ] große Pfanne (2kg)
+- [ ] Nottoilette + Beutel + Streu (5kg)
+- [ ] Ohuhu-Partyzelt (mit Gewichten) (25kg)
+- [ ] Plane groß (2kg)
+- [ ] Sandspielzeug, Drachen (2kg)
+- [ ] Schlafsack Emilia (1kg)
+- [ ] Schlafsack Mama (1kg)
+- [ ] Schlafsack Samuel (1kg)
+- [ ] Schrank blau gestreift (Stoff, Gestänge und Ecken) (3kg)
 - [ ] Schrankplatte für blau gestreiften Schrank
-- [ ] Sonnenschirm hellblau
-- [ ] Sonnensegel
-- [ ] Stillkissen
+- [ ] Sonnenschirm hellblau (3kg)
+- [ ] Sonnensegel (3kg)
+- [ ] Stillkissen (1kg)
 - [ ] Strandmatte
-- [ ] Strandmuschel
-- [ ] Strandzelt groß
+- [ ] Strandmuschel (2kg)
+- [ ] Strandzelt groß (7kg)
 - [ ] Töpfe, Geschirr und Besteck
-- [ ] Trittstufe
-- [ ] Unterlegkeile
-- [ ] Wäscheständer
-- [ ] Waschmaschine
-  - [ ] Badetücher
-- [ ] Wasserkanister 3x (2x20l + 10l)
-- [ ] Wind- und Sichtschutz
-- [ ] Wurfzelt grün
+- [ ] Trittstufe (5kg)
+- [ ] Unterlegkeile (2kg)
+- [ ] Wäscheständer (3kg)
+- [ ] Waschmaschine (5kg)
+  - [ ] Badetücher (3kg)
+- [ ] Wasserkanister 3x (2x20l + 10l) (4kg)
+- [ ] Wind- und Sichtschutz (3kg)
+- [ ] Wurfzelt grün (5kg)
 
 ### In die Dachbox
 
@@ -298,10 +299,10 @@ unsortiert
 - [ ] Sandspielzeug
 - [ ] Schlafsack Papa
 - [ ] Schwimmnudel mit Verschluss
-- [ ] Tigerbikel
-- [ ] Toilettenpapier
+- [ ] Tigerbikel (10kg)
+- [ ] Toilettenpapier (2kg)
 - [ ] Töpfchen
-- [ ] Windeln
+- [ ] Windeln (2kg)
 
 ### In das Auto
 
