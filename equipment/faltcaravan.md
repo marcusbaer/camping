@@ -168,6 +168,8 @@ aus Wohnung
 - [x] Schlafsack Samuel
 - [x] Waschmaschine
 
+unsortiert
+
 - [ ] Emailletassen
 - [ ] Federball
 - [ ] Hüpfball
@@ -195,6 +197,11 @@ aus Wohnung
 - [ ] WLAN-Router
 - [ ] Taschentücher
 - [ ] Seife
+- [ ] Plastikbügel, Kinderbügel
+- [ ] Hochstuhl?
+- [ ] rote Verlängerung 4-fach
+- [ ] Kindersicherungen
+- [ ] Einhängeregal
 
 ## Stauliste
 
