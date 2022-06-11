@@ -149,6 +149,7 @@ aus Wohnung
 - [ ] Kleber
 - [ ] Kleidung
 - [ ] Kopfkissen
+- [ ] Kühlschrank
 - [ ] Müllbeutel
 - [ ] Peltier-Kühlbox
 - [ ] Radio mit Ladekabel
@@ -259,6 +260,7 @@ unsortiert
 - [ ] ~~Kaffeemaschine?~~
 - [ ] Kinder-Campingstuhl gelb (1kg)
 - [ ] Kochtopf?
+- [ ] Kühlschrank (15kg)
 - [ ] große Pfanne (2kg)
 - [ ] Nottoilette + Beutel + Streu (5kg)
 - [ ] Ohuhu-Partyzelt (mit Gewichten) (25kg)
