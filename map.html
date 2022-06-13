@@ -6,13 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex, nofollow">
     <meta name="apple-mobile-web-app-capable" content="yes" />
-    <title>Camping</title>
+    <title>Camping Karte</title>
     <style>
         html { font-family: sans-serif; font-size: 20px; }
         body { background: rgb(58, 50, 50); color: white; }
     </style>
     <link rel="icon" href="./icon.svg" type="image/svg+xml">
     <link rel="manifest" href="manifest.json">
+    <script src="./vendor/leaflet/leaflet.js"></script>
     <script src="./vendor/markdown-it.min.js"></script>
     <script type="module" src="./components/essential.js" async></script>
     <script type="module">
@@ -55,16 +56,10 @@
 <body>
     <header>CAMPING</header>
     <main>
-        <h1>Hello from Camping</h1>
-        <button id="new">Open New Window</button>
-        <image-list></image-list>
+        <h1>Adressen</h1>
+        <locations-map></locations-map>
         <!-- <qr-scanner></qr-scanner> -->
         <hr>
-        <nav>
-            <ul>
-                <li><a href="map.html">Adressen</a></li>
-            </ul>
-        </nav>
     </main>
     <footer>
         <button id="installButton">Install App</button>
