@@ -174,13 +174,13 @@ unsortiert
 - [ ] Emailletassen
 - [ ] Federball
 - [ ] Hüpfball
-- [ ] gelber Bagger
+- [ ] Bagger gelb
 - [ ] Wasserspritze
 - [ ] Fahrradsitz Daniel
 - [ ] Wäscheklammern
 - [ ] Tiegel
 - [ ] Schüssel
-- [ ] Müllständer
+- [ ] Müllständer (3kg)
 - [ ] Kühlschrank 40l
 - [ ] Gasanzünder
 - [ ] Badputzmittel
@@ -189,8 +189,8 @@ unsortiert
 - [ ] Badelatschen
 - [ ] Reisefön
 - [ ] Rasierer
-- [ ] großer Campingpavillon
-- [ ] neue Töpfe
+- [ ] Campingpavillon groß
+- [ ] Töpfe neu
 - [ ] Bettlaken (welche Größe?)
 - [ ] Decken
 - [ ] Handtücher
@@ -200,9 +200,12 @@ unsortiert
 - [ ] Seife
 - [ ] Plastikbügel, Kinderbügel
 - [ ] Hochstuhl?
-- [ ] rote Verlängerung 4-fach
+- [ ] Strom-Verlängerung rot 4-fach
 - [ ] Kindersicherungen
 - [ ] Einhängeregal
+- [ ] Kühlpads
+- [ ] Kühlakkus
+- [ ] Kühlbox klein gelb
 
 ## Stauliste
 
