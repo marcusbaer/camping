@@ -36,13 +36,26 @@
                 shareButton.style.display = "none";
             }
 
-            const newWindowButton = document.querySelector('#new');
-            const windows = [];
-            newWindowButton.addEventListener('click', (event) => {
-                const counter = windows.length + 1;
-                const handler = window.open(`./details.html?counter=${counter}`, `window-${counter}`, `height=600, width=400, left=${counter * 40 + 100}, top=${counter * 40 + 100}, menubar=no, status=no, location=no, titlebar=no`);
-                windows.push(handler);
-            });
+            const locationsMap = document.querySelector('locations-map');
+            locationsMap.setAttribute('locations', JSON.stringify([
+                // { type: 'test', lat: 51.5, lon: 0.09, info: 'Somewhere next to Greenwhich'},
+                { type: 'const', lat: 51.542934996328576, lon: 3.597262386519709, info: 'Hubo bouwmarkt Serooskerke', address: 'Hondegemseweg 2, 4353 RS Serooskerke', phone: '+31118591473'},
+                { type: 'const', lat: 51.527006691497846, lon: 3.4383128458501906, info: 'Hubo bouwmarkt Westkapelle', address: 'Zuidstraat 118, 4361 AJ Westkapelle', phone: '+31118572612'},
+                { type: 'const', lat: 51.48059690297341, lon: 3.623475475982995, info: 'Praxis Bouwmarkt Middelburg', address: 'Mortiereboulevard 6, 4336 RA Middelburg', phone: '+31118635844'},
+                { type: 'const', lat: 51.655582095562075, lon: 3.904649267683644, info: 'Praxis Bouwmarkt Zierikzee', address: 'Grevelingenstraat 13, 4301 XZ Zierikzee', phone: '+31111416999'},
+                { type: 'const', lat: 51.45877371423183, lon: 3.569677742390672, info: 'GAMMA bouwmarkt Vlissingen', address: 'Govert Flincklaan 7, 4383 WB Vlissingen', phone: '+31118479799'},
+                { type: 'const', lat: 51.509913834134046, lon: 3.891765925606468, info: 'Praxis Bouwmarkt Goes', address: 'Albert Joachimikade 30, 4463 AA Goes', phone: '+31113233220'},
+                { type: 'const', lat: 51.48168425160576, lon: 3.818998861605638, info: 'Hubo bouwmarkt Heinkenszand', address: 'Schouwersweg 10, 4451 HT Heinkenszand', phone: '+31113561255'},
+                { type: 'const', lat: 51.50667454250638, lon: 3.875552809980299, info: 'GAMMA bouwmarkt Goes', address: 'Goese Poort 4, 4463 XC Goes', phone: '+31113251200'},
+                { type: 'camp', lat: 51.54886414409108, lon: 3.5914081478823072, info: 'Clarijs Campingshop', address: 'Wilgenhoekweg 2, 4353 EB Serooskerke', phone: '+31118596464', web: 'http://www.campingshopclarijs.nl'},
+                { type: 'camp', lat: 51.45739597205995, lon: 3.5874600360078497, info: 'Kampeercentrum Mechielsen', address: 'Gildeweg 37, 4383 NJ Vlissingen', phone: '+31118440100', web: 'http://www.mechielsen.eu'},
+                { type: 'camp', lat: 51.45758803037004, lon: 3.5868013537092645, info: 'Tent+', address: 'Gildeweg 35, 4383 NJ Vlissingen', phone: '+31118440100', web: 'http://www.tentplus.nl'},
+                { type: 'camp', lat: 51.687978104610046, lon: 3.7280984255517384, info: 'Caravan- en Kampeershop Blom V.O.F.', address: 'Hogeweg 24a, 4328 PC Burgh-Haamstede', phone: '+31111652020', web: 'http://www.blomkampeershop.nl'},
+                { type: 'camp', lat: 51.705717384852214, lon: 3.774193729269183, info: 'Kampeercentrum Mechielsen', address: 'Bouwmansweg 18, 4328 SN Burgh-Haamstede', phone: '+31111769023', web: 'https://www.mechielsen.eu'},
+                { type: 'camp', lat: 51.48087020616091, lon: 3.818675584558914, info: 'Caravan Life Gorter', address: 'Daniëlsweg 2, 4451 HP Heinkenszand', phone: '+31113563085', web: 'http://caravanlife.nl'},
+                { type: 'garden', lat: 51.47969768452987, lon: 3.6250130018326714, info: 'GroenRijk Middelburg', address: 'Mortiereboulevard 2, 4336 RA Middelburg', phone: '+31118470400', web: 'http://www.groenrijkmiddelburg.nl'},
+                { type: 'garden', lat: 51.47061258438668, lon: 3.556170689001974, info: 'Intratuin Koudekerke', address: 'Vlissingsestraat 40a, 4371 RE Koudekerke', phone: '+31118551623', web: 'https://www.intratuin.nl/winkels/intratuin-koudekerke'},
+            ]));
         }
 
         (async () => {
@@ -57,7 +70,7 @@
     <header>CAMPING</header>
     <main>
         <h1>Adressen</h1>
-        <locations-map></locations-map>
+        <locations-map view="51.571613430382904, 3.617422347851073" zoom="11"></locations-map>
         <!-- <qr-scanner></qr-scanner> -->
         <hr>
     </main>
