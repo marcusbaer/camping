@@ -7,7 +7,7 @@ const loadModule = async tagName => {
   customElements.define(module.default.tagName, module.default)
 }
 
-const allowedElements = ['image-list', 'locations-map', 'qr-scanner', 'praizee-slides']
+const allowedElements = ['image-list', 'locations-map', 'md-content', 'qr-scanner', 'praizee-slides']
 
 allowedElements.forEach(tagName => {
   const firstMatch = document.querySelector(tagName)
