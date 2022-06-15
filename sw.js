@@ -1,4 +1,4 @@
-const RELEASE_ID = '0.0.1'
+const RELEASE_ID = '0.0.2'
 const CACHE_NAME = `camping-cache-v${RELEASE_ID}`
 
 self.addEventListener('install', event => {
