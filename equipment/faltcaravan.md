@@ -3,8 +3,6 @@
 ## Offene Punkte
 
 - [ ] Anleitung für Gasflasche anbauen
-- [ ] Mesh-Unterlage unter Matratze, https://www.ebay.de/itm/232670928046?hash=item362c449cae:g:f~4AAOSwzJ9f~G5h
-- [ ] Sturmleinen
 - [ ] Kühlschrankersatz
 - [ ] Magnethaken
 - [ ] Batterien für Campinglampe
@@ -23,7 +21,6 @@
 - [ ] Zuladung wiegen
 - [ ] Luftdruck prüfen
 - [ ] Dachbox drauf
-- [ ] Adressen regionaler Gartencenter, Baumärkte, Campingläden
 
 ## Packliste
 
@@ -76,6 +73,7 @@ aus Keller allgemein
 - [ ] Dachbox
 - [ ] Fahrräder groß (Hollandrad, lila MTB, silbernes MTB)
 - [ ] Fahrradhelme
+- [ ] Fahrradsitz Daniel
 - [ ] Fahrradträger
 - [ ] Gasflasche
 - [ ] Kochtopf?
@@ -101,6 +99,7 @@ aus Keller allgemein
 - [x] Schwimmnudel mit Verschluss
 - [x] Sonnenschirm hellblau
 - [x] Toilettenpapier
+- [ ] Töpfe neu (2kg)
 - [x] Wasserkanister 3x (2x20l + 10l)
 - [x] Windeln
 - [x] Wurfzelt grün
@@ -112,14 +111,18 @@ aus Falti
 
 aus Garage
 
+- [ ] Bagger gelb
 - [ ] Fahrradanhänger?
 - [ ] Sandspielzeug
 
 aus Garten
 
+- [ ] Federball
 - [ ] Gaskocher inkl. 1 vollen Kartusche
+- [ ] Hüpfball
 - [ ] Strandzelt groß
 - [ ] Töpfchen
+- [ ] Wasserspritze
 
 aus Auto
 
@@ -135,12 +138,16 @@ aus Wohnung
 - [ ] Aufbauanleitung für Falti
 - [ ] Badeschuhe
 - [ ] Badetücher
+- [ ] Badputzmittel
 - [ ] Bettzeug
 - [ ] Bücher
 - [ ] Campingclogs
+- [ ] Desinfektion
 - [ ] DVD-Spieler?
+- [ ] Emailletassen
 - [ ] Fahrzeugschein und TÜV von Falti
 - [ ] Funkgeräte
+- [ ] Gasanzünder
 - [ ] Gesellschaftsspiele
 - [ ] Gummistiefel
 - [ ] Handtücher
@@ -149,18 +156,26 @@ aus Wohnung
 - [ ] Kleber
 - [ ] Kleidung
 - [ ] Kopfkissen
-- [ ] Kühlschrank
+- [ ] Kühlschrank 40l
+- [ ] Laufrad Holz
 - [ ] Müllbeutel
+- [ ] Müllständer (3kg)
 - [ ] Peltier-Kühlbox
+- [ ] Putzlappen
 - [ ] Radio mit Ladekabel
 - [ ] Sandspielzeug, Drachen
 - [ ] Schlafsack Emilia
 - [ ] Schlafsack Mama
+- [ ] Schüssel
 - [ ] Sonnenbrillen und -hüte
 - [ ] Sonnencreme
 - [ ] Spielzeugauswahl
 - [ ] Stillkissen
+- [ ] Strom-Verlängerung rot 4-fach
+- [ ] Sturmleinen
 - [ ] Telefone, Smartphones mit SD-Karten und Ladekabel
+- [ ] Tiegel
+- [ ] Wäscheklammern
 - [ ] Wäscheständer
 - [ ] Wasserwaage
 - [x] Luftpumpe 220V
@@ -171,26 +186,8 @@ aus Wohnung
 
 unsortiert
 
-- [ ] Emailletassen
-- [ ] Federball
-- [ ] Hüpfball
-- [ ] Bagger gelb
-- [ ] Wasserspritze
-- [ ] Fahrradsitz Daniel
-- [ ] Wäscheklammern
-- [ ] Tiegel
-- [ ] Schüssel
-- [ ] Müllständer (3kg)
-- [ ] Kühlschrank 40l
-- [ ] Gasanzünder
-- [ ] Badputzmittel
-- [ ] Putzlappen
-- [ ] Desinfektion
-- [ ] Badelatschen
-- [ ] Reisefön
 - [ ] Rasierer
-- [ ] Campingpavillon groß
-- [ ] Töpfe neu
+- [ ] Reisefön
 - [ ] Bettlaken (welche Größe?)
 - [ ] Decken
 - [ ] Handtücher
@@ -200,7 +197,6 @@ unsortiert
 - [ ] Seife
 - [ ] Plastikbügel, Kinderbügel
 - [ ] Hochstuhl?
-- [ ] Strom-Verlängerung rot 4-fach
 - [ ] Kindersicherungen
 - [ ] Einhängeregal
 - [ ] Kühlpads
@@ -237,8 +233,10 @@ unsortiert
   - [ ] Schlauchschellen 8-16mm
   - [ ] Spannseile für Fahrrad
   - [ ] Stromverteiler rot 4-fach
+  - [ ] Sturmleinen
   - [ ] Taschenlampe 220V aufladbar
   - [ ] Verlängerungskabel, rote Stecker-Schutzbox
+  - [ ] Wäscheklammern
   - [ ] Wäscheleine
   - [ ] Wasseranschlüsse
   - [ ] Wasserkocher schwarz
@@ -247,6 +245,7 @@ unsortiert
 
 - [ ] Fahrradträger
   - [ ] Fahrräder groß (Hollandrad, lila MTB, silbernes MTB) (3x20kg = 60kg)
+  - [ ] Fahrradsitz Daniel
 
 - [ ] ~~Wasserpackung~~
 - [ ] Badeschuhe
@@ -257,14 +256,18 @@ unsortiert
 - [ ] Campingstühle 3x (12kg)
 - [ ] Campingtisch neu (5kg)
 - [ ] Elektroheizer (4kg)
+- [ ] Emailletassen
 - [ ] Faltstühle groß 2x (12kg)
+- [ ] Gasanzünder
 - [ ] Gasflasche (12kg)
 - [ ] Grill (3kg)
 - [ ] ~~Kaffeemaschine?~~
 - [ ] Kinder-Campingstuhl gelb (1kg)
 - [ ] Kochtopf?
-- [ ] Kühlschrank (15kg)
+- [ ] Kühlschrank 40l (15kg)
+- [ ] Laufrad Holz (2kg)
 - [ ] große Pfanne (2kg)
+- [ ] Müllständer (3kg)
 - [ ] Nottoilette + Beutel + Streu (5kg)
 - [ ] Ohuhu-Partyzelt (mit Gewichten) (25kg)
 - [ ] Plane groß (2kg)
@@ -272,6 +275,7 @@ unsortiert
 - [ ] Schlafsack Emilia (1kg)
 - [ ] Schlafsack Mama (1kg)
 - [ ] Schlafsack Samuel (1kg)
+- [ ] Schüssel
 - [ ] Schrank blau gestreift (Stoff, Gestänge und Ecken) (3kg)
 - [ ] Schrankplatte für blau gestreiften Schrank
 - [ ] Sonnenschirm hellblau (3kg)
@@ -280,7 +284,8 @@ unsortiert
 - [ ] Strandmatte
 - [ ] Strandmuschel (2kg)
 - [ ] Strandzelt groß (7kg)
-- [ ] Töpfe, Geschirr und Besteck
+- [ ] Tiegel (1kg)
+- [ ] Töpfe, Geschirr und Besteck (5kg)
 - [ ] Trittstufe (5kg)
 - [ ] Unterlegkeile (2kg)
 - [ ] Wäscheständer (3kg)
@@ -292,21 +297,29 @@ unsortiert
 
 ### In die Dachbox
 
+- [ ] Badputzmittel
+- [ ] Bagger gelb
 - [ ] Ball
+- [ ] Desinfektion
 - [ ] Fahrradanhänger?
 - [ ] Fahrradhelme
+- [ ] Federball
 - [ ] Gaskocher inkl. 1 vollen Kartusche
 - [ ] Gummistiefel
+- [ ] Hüpfball
 - [ ] Isomatten 2x
 - [ ] Küchentücher
 - [ ] Luftmatrazen selbstaufblasend 2x
 - [ ] Maxi-Taxi
+- [ ] Putzlappen
 - [ ] Sandspielzeug
 - [ ] Schlafsack Papa
 - [ ] Schwimmnudel mit Verschluss
+- [ ] Strom-Verlängerung rot 4-fach
 - [ ] Tigerbikel (10kg)
 - [ ] Toilettenpapier (2kg)
 - [ ] Töpfchen
+- [ ] Wasserspritze
 - [ ] Windeln (2kg)
 
 ### In das Auto
