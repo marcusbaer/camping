@@ -43,13 +43,13 @@
                 shareButton.style.display = "none";
             }
 
-            const newWindowButton = document.querySelector('#new');
-            const windows = [];
-            newWindowButton.addEventListener('click', (event) => {
-                const counter = windows.length + 1;
-                const handler = window.open(`./details.html?counter=${counter}`, `window-${counter}`, `height=600, width=400, left=${counter * 40 + 100}, top=${counter * 40 + 100}, menubar=no, status=no, location=no, titlebar=no`);
-                windows.push(handler);
-            });
+            // const newWindowButton = document.querySelector('#new');
+            // const windows = [];
+            // newWindowButton.addEventListener('click', (event) => {
+            //     const counter = windows.length + 1;
+            //     const handler = window.open(`./details.html?counter=${counter}`, `window-${counter}`, `height=600, width=400, left=${counter * 40 + 100}, top=${counter * 40 + 100}, menubar=no, status=no, location=no, titlebar=no`);
+            //     windows.push(handler);
+            // });
         }
 
         (async () => {
