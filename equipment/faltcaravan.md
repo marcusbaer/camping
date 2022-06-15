@@ -3,10 +3,8 @@
 ## Offene Punkte
 
 - [ ] Anleitung für Gasflasche anbauen
-- [ ] Kühlschrankersatz
 - [ ] Magnethaken
 - [ ] Batterien für Campinglampe
-- [ ] Campingschrank für Essen mit Ablage
 - [X] Trittstufe
 
 ## Aufgaben
@@ -77,10 +75,8 @@ aus Keller allgemein
 - [ ] Fahrradträger
 - [ ] Gasflasche
 - [ ] Kochtopf?
-- [ ] Kühlschrankersatz
 - [ ] Ohuhu-Partyzelt (mit Gewichten)
 - [ ] Panzerband, Elektroband
-- [ ] Schrankplatte für blau gestreiften Schrank
 - [ ] Tigerbikel
 - [ ] Töpfe, Geschirr und Besteck
 - [x] Ball
@@ -130,7 +126,7 @@ aus Auto
 - [ ] Trittstufe
 - [ ] Wasserschläuche 10mm + Abwasser + Gartenschlauch + Spritze + Hahnanschluss
 - [x] Achslastwaage
-- [x] Kinder-Campingstuhl gelb
+- [x] Kinder-Campingstühle gelb + rot
 - [x] Maxi-Taxi
 
 aus Wohnung
@@ -172,7 +168,7 @@ aus Wohnung
 - [ ] Spielzeugauswahl
 - [ ] Stillkissen
 - [ ] Strom-Verlängerung rot 4-fach
-- [ ] Sturmleinen
+- [ ] Sturmleine
 - [ ] Telefone, Smartphones mit SD-Karten und Ladekabel
 - [ ] Tiegel
 - [ ] Wäscheklammern
@@ -207,96 +203,105 @@ unsortiert
 
 ### In den Falti
 
-- [ ] Campingkiste (25kg)
-  - [ ] Adapter 1/2 Zoll auf 10mm
-  - [ ] Campingdusche klein
-  - [ ] Campinglampen klein
-  - [ ] Campinglaterne mit Batterien
-  - [ ] Erdbohrer für Sonnenschirm
-  - [ ] Fahrradschlösser 2x
-  - [ ] Falteimer
-  - [ ] Fußmatte
-  - [ ] Gummihammer neu
-  - [ ] Hängeorganizer
-  - [ ] Hängespiegel
-  - [ ] Heringe, Schnüre, Gummihammer in Tüte
-  - [ ] Kabeltrommel klein
-  - [ ] Kehrschaufel und -besen
-  - [ ] Kleber
-  - [ ] Kopfkissen aufblasbar 1x
-  - [ ] Luftpumpe 220V
-  - [ ] Luftpumpe für Fahrrad
-  - [ ] Müllbeutel
-  - [ ] Panzerband, Elektroband
-  - [ ] Sattelschutz rot
-  - [ ] Schlafsäcke 3x kleine als Decken
-  - [ ] Schlauchschellen 8-16mm
-  - [ ] Spannseile für Fahrrad
-  - [ ] Stromverteiler rot 4-fach
-  - [ ] Sturmleinen
-  - [ ] Taschenlampe 220V aufladbar
-  - [ ] Verlängerungskabel, rote Stecker-Schutzbox
-  - [ ] Wäscheklammern
-  - [ ] Wäscheleine
-  - [ ] Wasseranschlüsse
-  - [ ] Wasserkocher schwarz
-  - [ ] Wasserschlauch rot 15m
-  - [ ] Wasserschläuche 10mm + Gartenschlauch + Spritze + Hahnanschluss
-
-- [ ] Fahrradträger
+- [ ] Fahrradträger (90kg)
   - [ ] Fahrräder groß (Hollandrad, lila MTB, silbernes MTB) (3x20kg = 60kg)
   - [ ] Fahrradsitz Daniel
+
+- Deichselbox (30kg)
+  - [ ] Gasflasche (12kg)
+  - [ ] Kühlschrank 40l (15kg)
+  - [ ] Unterlegkeile (2kg)
+
+- Seitenkästen (12kg)
+  - [ ] Erdbohrer für Sonnenschirm (2kg)
+  - [ ] Fahrradschlösser 2x (1kg)
+  - [ ] Kabeltrommel klein (1kg)
+  - [ ] Sonnenschirm hellblau (2kg)
+  - [ ] Sonnensegel (2kg)
+  - [ ] Strandmuschel (2kg)
+  - [ ] Strandmatte
+  - [ ] Sturmleine (1kg)
+  - [ ] Wind- und Sichtschutz (2kg)
+
+- Innenbereich (107kg+25kg+8kg)
+  - [ ] Haushaltkiste (6kg)
+    - [ ] Adapter 1/2 Zoll auf 10mm
+    - [ ] Campingdusche klein
+    - [ ] Campinglampen klein
+    - [ ] Campinglaterne mit Batterien
+    - [ ] Falteimer
+    - [ ] Fußmatte
+    - [ ] Hängeorganizer
+    - [ ] Hängespiegel
+    - [ ] Kehrschaufel und -besen
+    - [ ] Kopfkissen aufblasbar 1x
+    - [ ] Luftpumpe 220V
+    - [ ] Luftpumpe für Fahrrad
+    - [ ] Müllbeutel
+    - [ ] Sattelschutz rot
+    - [ ] Schlauchschellen 8-16mm
+    - [ ] Spannseile für Fahrrad
+    - [ ] Taschenlampe 220V aufladbar
+    - [ ] Wäscheklammern
+    - [ ] Wäscheleine
+    - [ ] Wasseranschlüsse
+    - [ ] Wasserkocher schwarz
+    - [ ] Wasserschlauch rot 15m
+    - [ ] Wasserschläuche 10mm + Gartenschlauch + Spritze + Hahnanschluss
+  - [ ] Camping-Tisch/Hocker-Kombination (12kg)
+  - [ ] Campingstühle 3x (12kg)
+  - [ ] Campingtisch neu (5kg)
+  - [ ] Elektroheizer (3kg)
+  - [ ] *Faltstühle groß 2x (10kg)*
+  - [ ] Grill (2kg)
+  - [ ] *Kinder-Campingstühle gelb + rot (2kg)*
+  - [ ] Müllständer (3kg)
+  - [ ] *Nottoilette + Beutel + Streu (5kg)*
+  - [ ] Plane groß (2kg)
+  - [ ] Schlafsäcke 3x kleine als Decken (1kg)
+  - [ ] Schlafsack Emilia (1kg)
+  - [ ] Schlafsack Mama (1kg)
+  - [ ] Schlafsack Samuel (1kg)
+  - [ ] Schrank blau gestreift (Stoff, Gestänge und Ecken) (3kg)
+  - [ ] ~~Schrankplatte für blau gestreiften Schrank~~
+  - [ ] Schrank im grünen Sack (5kg)
+  - [ ] Strandzelt groß (7kg)
+  - [ ] Trittstufe (5kg)
+  - [ ] Wäscheständer (3kg)
+  - [ ] Waschmaschine (5kg)
+    - [ ] Badetücher (2kg)
+  - [ ] Wasserkanister 3x (2x20l + 10l) (4kg)
+  - [ ] Wurfzelt grün (5kg)
+  - [ ] Zelt- und Stromkiste (4kg)
+    - [ ] Gummihammer neu
+    - [ ] Heringe, Schnüre, Gummihammer in Tüte
+    - [ ] Kleber
+    - [ ] Panzerband, Elektroband
+    - [ ] Stromverteiler rot 4-fach
+    - [ ] Verlängerungskabel, rote Stecker-Schutzbox
+  - [ ] evtl. Ohuhu-Partyzelt (mit Gewichten) (25kg)
+  - [ ] evtl. Tigerbikel? (8kg)
+
+- Küche (10kg)
+  - [ ] Emailletassen
+  - [ ] Kochtopf?
+  - [ ] Pfanne groß (2kg)
+  - [ ] Schüssel
+  - [ ] Tiegel (1kg)
+  - [ ] Töpfe, Geschirr und Besteck (5kg)
+
+### In die Dachbox
 
 - [ ] ~~Wasserpackung~~
 - [ ] Badeschuhe
 - [ ] Bettzeug
 - [ ] ~~Bobbycar?~~
-- [ ] Camping-Tisch/Hocker-Kombination (12kg)
 - [ ] Campingclogs
-- [ ] Campingstühle 3x (12kg)
-- [ ] Campingtisch neu (5kg)
-- [ ] Elektroheizer (4kg)
-- [ ] Emailletassen
-- [ ] Faltstühle groß 2x (12kg)
 - [ ] Gasanzünder
-- [ ] Gasflasche (12kg)
-- [ ] Grill (3kg)
 - [ ] ~~Kaffeemaschine?~~
-- [ ] Kinder-Campingstuhl gelb (1kg)
-- [ ] Kochtopf?
-- [ ] Kühlschrank 40l (15kg)
 - [ ] Laufrad Holz (2kg)
-- [ ] große Pfanne (2kg)
-- [ ] Müllständer (3kg)
-- [ ] Nottoilette + Beutel + Streu (5kg)
-- [ ] Ohuhu-Partyzelt (mit Gewichten) (25kg)
-- [ ] Plane groß (2kg)
 - [ ] Sandspielzeug, Drachen (2kg)
-- [ ] Schlafsack Emilia (1kg)
-- [ ] Schlafsack Mama (1kg)
-- [ ] Schlafsack Samuel (1kg)
-- [ ] Schüssel
-- [ ] Schrank blau gestreift (Stoff, Gestänge und Ecken) (3kg)
-- [ ] Schrankplatte für blau gestreiften Schrank
-- [ ] Sonnenschirm hellblau (3kg)
-- [ ] Sonnensegel (3kg)
 - [ ] Stillkissen (1kg)
-- [ ] Strandmatte
-- [ ] Strandmuschel (2kg)
-- [ ] Strandzelt groß (7kg)
-- [ ] Tiegel (1kg)
-- [ ] Töpfe, Geschirr und Besteck (5kg)
-- [ ] Trittstufe (5kg)
-- [ ] Unterlegkeile (2kg)
-- [ ] Wäscheständer (3kg)
-- [ ] Waschmaschine (5kg)
-  - [ ] Badetücher (3kg)
-- [ ] Wasserkanister 3x (2x20l + 10l) (4kg)
-- [ ] Wind- und Sichtschutz (3kg)
-- [ ] Wurfzelt grün (5kg)
-
-### In die Dachbox
-
 - [ ] Badputzmittel
 - [ ] Bagger gelb
 - [ ] Ball
