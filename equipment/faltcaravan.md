@@ -248,6 +248,7 @@ unsortiert
     - [ ] Wasserkocher schwarz
     - [ ] Wasserschlauch rot 15m
     - [ ] Wasserschläuche 10mm + Gartenschlauch + Spritze + Hahnanschluss
+  - [ ] Bodenplane (3kg)
   - [ ] Camping-Tisch/Hocker-Kombination (12kg)
   - [ ] Campingstühle 3x (12kg)
   - [ ] Campingtisch neu (5kg)
@@ -255,7 +256,7 @@ unsortiert
   - [ ] *Faltstühle groß 2x (10kg)*
   - [ ] Grill (2kg)
   - [ ] *Kinder-Campingstühle gelb + rot (2kg)*
-  - [ ] Müllständer (3kg)
+  - [ ] Müllständer (2kg)
   - [ ] *Nottoilette + Beutel + Streu (5kg)*
   - [ ] Plane groß (2kg)
   - [ ] Schlafsäcke 3x kleine als Decken (1kg)
