@@ -2,356 +2,218 @@
 
 ## Offene Punkte
 
-- [ ] Anleitung für Gasflasche anbauen
-- [ ] Magnethaken
 - [ ] Batterien für Campinglampe
-- [X] Trittstufe
+- [ ] 2m 10mm Frischwasserschlauch kaufen
 
 ## Aufgaben
 
-- [ ] Abwasserschlauch testen
-- [ ] Frischwasserschlauch testen
-- [ ] Trittstufe testen
-- [ ] Wasserhahn und -pumpe testen
-- [ ] Platten und Verschraubung der Fahrradträger
+- [ ] Maulschlüssel Falti
 - [ ] Basisgewicht des Anhängers bestimmen
+- [ ] Abwasserschlauch testen
+- [ ] Thule Fahrradträger testen
+- [ ] Platten und Verschraubung der Fahrradträger
 - [ ] Gasflasche tauschen
 - [ ] Zuladung wiegen
-- [ ] Luftdruck prüfen
 - [ ] Dachbox drauf
+- [ ] Kette lila Mountainbike
 
 ## Packliste
 
-vorsortiert in großer Box aus Keller
+### Garten
 
-- [ ] Luftpumpe für Fahrrad
-- [x] Campingdusche klein
-- [x] Campinglampen klein
-- [x] Campinglaterne mit Batterien
-- [x] Erdbohrer für Sonnenschirm
-- [x] Fahrradschlösser 2x
-- [x] Falteimer
-- [x] Fußmatte
-- [x] Hängeorganizer
-- [x] Hängespiegel
-- [x] Kabeltrommel klein
-- [x] Kehrschaufel und -besen
-- [x] Kopfkissen aufblasbar 1x
-- [x] Sattelschutz rot
-- [x] Schlafsäcke 3x kleine als Decken
-- [x] Sonnensegel
-- [x] Spannseile für Fahrrad
-- [x] Strandmatte
-- [x] Strandmuschel
-- [x] Stromverteiler rot 4-fach
-- [x] Taschenlampe 220V aufladbar
-- [x] Verlängerungskabel, rote Stecker-Schutzbox
-- [x] Wäscheleine
-- [x] Wasserkocher schwarz
-- [x] Wasserschlauch rot 15m
-- [x] Wind- und Sichtschutz
-
-aus Werkzeugkiste
-
-- [ ] Kneifzange (weg, wenn erledigt)
-- [ ] Reifenflickzeug
-- [x] Campingstrom-Adapter blau (in Mittelkonsole)
-- [x] Gummihammer neu
-- [ ] Heringe, Schnüre, Gummihammer in Tüte
-- [x] Knochen
-- [x] Schlauchschellen 8-16mm
-- [x] Taschenmesser
-- [x] Wasseranschlüsse
-- [x] Werkzeugtüte (Werkzeugfach) mit Inbus-Set, Knochen, Zangen (Spitz + Kneifen + Klapptool), Hammer, Schraubendreher (kreuz + flach, Strom), Fahrrad-Multitool
-
-aus Keller allgemein
-
-- [ ] ~~Wasserpackung~~
-- [ ] Bobbycar?
-- [ ] Dachbox
-- [ ] Fahrräder groß (Hollandrad, lila MTB, silbernes MTB)
-- [ ] Fahrradhelme
-- [ ] Fahrradsitz Daniel
-- [ ] Fahrradträger
-- [ ] Gasflasche
-- [ ] Kochtopf?
-- [ ] Ohuhu-Partyzelt (mit Gewichten)
-- [ ] Panzerband, Elektroband
-- [ ] Tigerbikel
-- [ ] Töpfe, Geschirr und Besteck
-- [x] Ball
-- [x] Camping-Tisch/Hocker-Kombination
-- [x] Campingstühle 3x
-- [x] Campingtisch neu
-- [x] Faltstühle groß 2x
-- [x] Grill
-- [x] Isomatten 2x
-- [x] Küchentücher
-- [x] Luftmatrazen selbstaufblasend 2x
-- [ ] Maulschlüssel 13er
-- [ ] Maulschlüssel 17er
-- [x] Plane groß
-- [x] Schrank blau gestreift (Stoff, Gestänge und Ecken)
-- [x] Schwimmnudel mit Verschluss
-- [x] Sonnenschirm hellblau
-- [x] Toilettenpapier
-- [ ] Töpfe neu (2kg)
-- [x] Wasserkanister 3x (2x20l + 10l)
-- [x] Windeln
-- [x] Wurfzelt grün
-
-aus Falti
-
-- [x] Elektroheizer
-- [x] Unterlegkeile
-
-aus Garage
-
-- [ ] Bagger gelb
-- [ ] Fahrradanhänger?
-- [ ] Sandspielzeug
-
-aus Garten
-
+- [ ] Wasserkocher
+- [ ] Beachzelt
+- [ ] gelber Stuhl
+- [ ] Kombizange
+- [ ] Wasserspritzen
 - [ ] Federball
-- [ ] Gaskocher inkl. 1 vollen Kartusche
+- [ ] Sonnenhut gelb + Mama
+- [ ] grüne Werkzeugbox
+- [ ] Gaskocher mit Kartusche
 - [ ] Hüpfball
-- [ ] Strandzelt groß
-- [ ] Töpfchen
-- [ ] Wasserspritze
-
-aus Auto
-
-- [ ] Adapter 1/2 Zoll auf 10mm
-- [ ] Trittstufe
-- [ ] Wasserschläuche 10mm + Abwasser + Gartenschlauch + Spritze + Hahnanschluss
-- [x] Achslastwaage
-- [x] Kinder-Campingstühle gelb + rot
-- [x] Maxi-Taxi
-
-aus Wohnung
-
-- [ ] Aufbauanleitung für Falti
-- [ ] Badeschuhe
-- [ ] Badetücher
-- [ ] Badputzmittel
-- [ ] Bettzeug
-- [ ] Bücher
-- [ ] Campingclogs
-- [ ] Desinfektion
-- [ ] DVD-Spieler?
-- [ ] Emailletassen
-- [ ] Fahrzeugschein und TÜV von Falti
-- [ ] Funkgeräte
-- [ ] Gasanzünder
-- [ ] Gesellschaftsspiele
-- [ ] Gummistiefel
-- [ ] Handtücher
-- [ ] Jacken
-- [ ] Kaffeemaschine?
-- [ ] Kleber
-- [ ] Kleidung
-- [ ] Kopfkissen
-- [ ] Kühlschrank 40l
-- [ ] Laufrad Holz
-- [ ] Müllbeutel
-- [ ] Müllständer (3kg)
-- [ ] Peltier-Kühlbox
-- [ ] Putzlappen
-- [ ] Radio mit Ladekabel
-- [ ] Sandspielzeug, Drachen
-- [ ] Schlafsack Emilia
-- [ ] Schlafsack Mama
-- [ ] Schüssel
-- [ ] Sonnenbrillen und -hüte
-- [ ] Sonnencreme
-- [ ] Spielzeugauswahl
-- [ ] Stillkissen
-- [ ] Strom-Verlängerung rot 4-fach
-- [ ] Sturmleine
-- [ ] Telefone, Smartphones mit SD-Karten und Ladekabel
-- [ ] Tiegel
-- [ ] Wäscheklammern
-- [ ] Wäscheständer
-- [ ] Wasserwaage
-- [x] Luftpumpe 220V
-- [x] Nottoilette + Beutel + Streu
-- [x] Schlafsack Papa
-- [x] Schlafsack Samuel
-- [x] Waschmaschine
-
-unsortiert
-
-- [ ] Rasierer
-- [ ] Reisefön
-- [ ] Bettlaken (welche Größe?)
-- [ ] Decken
-- [ ] Handtücher
-- [ ] Kreditkarte
-- [ ] WLAN-Router
-- [ ] Taschentücher
-- [ ] Seife
-- [ ] Plastikbügel, Kinderbügel
-- [ ] Hochstuhl?
-- [ ] Kindersicherungen
-- [ ] Einhängeregal
-- [ ] Kühlpads
-- [ ] Kühlakkus
-- [ ] Kühlbox klein gelb
+- [ ] Töpfchen?
 
 ## Stauliste
 
 ### In den Falti
 
-- [ ] Fahrradträger (90kg)
-  - [ ] Fahrräder groß (Hollandrad, lila MTB, silbernes MTB) (3x20kg = 60kg)
-  - [ ] Fahrradsitz Daniel
+### Fahrradträger (90kg)
 
-- Deichselbox (30kg)
-  - [ ] Gasflasche (12kg)
-  - [ ] Kühlschrank 40l (15kg)
-  - [ ] Unterlegkeile (2kg)
+- [ ] Fahrräder groß (Hollandrad, lila MTB, silbernes MTB) (3x20kg = 60kg)
+- [ ] Fahrradsitz Daniel
 
-- Seitenkästen (12kg)
-  - [ ] Erdbohrer für Sonnenschirm (2kg)
-  - [ ] Fahrradschlösser 2x (1kg)
-  - [ ] Kabeltrommel klein (1kg)
-  - [ ] Sonnenschirm hellblau (2kg)
-  - [ ] Sonnensegel (2kg)
-  - [ ] Strandmuschel (2kg)
-  - [ ] Strandmatte
-  - [ ] Sturmleine (1kg)
-  - [ ] Wind- und Sichtschutz (2kg)
+### Deichselbox (35kg)
 
-- Innenbereich (107kg+25kg+8kg)
-  - [ ] Haushaltkiste (6kg)
-    - [ ] Adapter 1/2 Zoll auf 10mm
-    - [ ] Campingdusche klein
-    - [ ] Campinglampen klein
-    - [ ] Campinglaterne mit Batterien
-    - [ ] Falteimer
-    - [ ] Fußmatte
-    - [ ] Hängeorganizer
-    - [ ] Hängespiegel
-    - [ ] Kehrschaufel und -besen
-    - [ ] Kopfkissen aufblasbar 1x
-    - [ ] Luftpumpe 220V
-    - [ ] Luftpumpe für Fahrrad
-    - [ ] Müllbeutel
-    - [ ] Sattelschutz rot
-    - [ ] Schlauchschellen 8-16mm
-    - [ ] Spannseile für Fahrrad
-    - [ ] Taschenlampe 220V aufladbar
-    - [ ] Wäscheklammern
-    - [ ] Wäscheleine
-    - [ ] Wasseranschlüsse
-    - [ ] Wasserkocher schwarz
-    - [ ] Wasserschlauch rot 15m
-    - [ ] Wasserschläuche 10mm + Gartenschlauch + Spritze + Hahnanschluss
-  - [ ] Bodenplane (3kg)
-  - [ ] Camping-Tisch/Hocker-Kombination (12kg)
-  - [ ] Campingstühle 3x (12kg)
-  - [ ] Campingtisch neu (5kg)
-  - [ ] Elektroheizer (3kg)
-  - [ ] *Faltstühle groß 2x (10kg)*
-  - [ ] Grill (2kg)
-  - [ ] *Kinder-Campingstühle gelb + rot (2kg)*
-  - [ ] Müllständer (2kg)
-  - [ ] *Nottoilette + Beutel + Streu (5kg)*
-  - [ ] Plane groß (2kg)
-  - [ ] Schlafsäcke 3x kleine als Decken (1kg)
-  - [ ] Schlafsack Emilia (1kg)
-  - [ ] Schlafsack Mama (1kg)
-  - [ ] Schlafsack Samuel (1kg)
-  - [ ] Schrank blau gestreift (Stoff, Gestänge und Ecken) (3kg)
-  - [ ] ~~Schrankplatte für blau gestreiften Schrank~~
-  - [ ] Schrank im grünen Sack (5kg)
-  - [ ] Strandzelt groß (7kg)
-  - [ ] Trittstufe (5kg)
-  - [ ] Wäscheständer (3kg)
-  - [ ] Waschmaschine (5kg)
-    - [ ] Badetücher (2kg)
-  - [ ] Wasserkanister 3x (2x20l + 10l) (4kg)
-  - [ ] Wurfzelt grün (5kg)
-  - [ ] Zelt- und Stromkiste (4kg)
-    - [ ] Gummihammer neu
-    - [ ] Heringe, Schnüre, Gummihammer in Tüte
-    - [ ] Kleber
-    - [ ] Panzerband, Elektroband
-    - [ ] Stromverteiler rot 4-fach
-    - [ ] Verlängerungskabel, rote Stecker-Schutzbox
-  - [ ] evtl. Ohuhu-Partyzelt (mit Gewichten) (25kg)
-  - [ ] evtl. Tigerbikel? (8kg)
+- [X] Achslastwaage (1kg)
+- [X] Elektroheizer (3kg)
+- [ ] Gasflasche (12kg)
+- [X] Grill (2kg)
+- [ ] Kühlschrank 40l (15kg)
+- [X] Unterlegkeile (2kg)
 
-- Küche (10kg)
-  - [ ] Emailletassen
-  - [ ] Kochtopf?
-  - [ ] Pfanne groß (2kg)
-  - [ ] Schüssel
-  - [ ] Tiegel (1kg)
-  - [ ] Töpfe, Geschirr und Besteck (5kg)
+### Seitenkästen
+
+- [X] Aufbauanleitung für Falti (Mittelkonsole)
+- [X] Campingtisch neu (5kg)
+- [X] Erdbohrer für Sonnenschirm (2kg)
+- [X] Fahrradschlösser 2x (1kg)
+- [X] Falteimer
+- [X] Faltstühle groß 2x (10kg)
+- [X] Fußmatte
+- [X] Kabeltrommel klein (1kg)
+- [X] Kehrschaufel und -besen
+- [X] Kinder-Campingstuhl rot (1kg)
+- [X] Kopfkissen aufblasbar 1x
+- [X] Leuchtheringe
+- [X] Luftpumpe für Fahrrad
+- [X] Müllständer (2kg)
+- [X] Plane groß (2kg)
+- [X] Schlafsäcke 2x kleine als Decken (1kg)
+- [X] Sonnenschirm hellblau (2kg)
+- [X] Sonnensegel (2kg)
+- [X] Strandmatte
+- [X] Strandmuschel (2kg)
+- [X] Sturmleine (1kg)
+- [X] Verlängerungskabel, rote Stecker-Schutzbox
+- [X] Wasserschlauch rot 15m
+- [X] Wasserschläuche 10mm + Gartenschlauch
+- [X] Wind- und Sichtschutz (2kg)
+
+### Innenbereich
+
+#### Haushaltkiste
+
+- [X] Adapter 1/2 Zoll auf 10mm
+- [X] Campingdusche klein
+- [X] Campinglampen klein
+- [X] Campinglaterne mit Batterien
+- [X] Gummihammer neu
+- [X] Hängeorganizer
+- [X] Hängespiegel
+- [X] Heringe, Schnüre, Gummihammer in Tüte
+- [X] Müllbeutel klein
+- [X] Panzerband, Elektroband
+- [X] Reifenflickzeug
+- [X] Sattelschutz rot
+- [X] Schlauchschellen 8-16mm
+- [X] Spannseile für Fahrrad
+- [X] Taschenlampe 220V aufladbar
+- [X] Wäscheklammern
+- [X] Wäscheleine
+- [X] Wasseranschlüsse + Spritze + Hahnanschluss
+
+#### Allgemein
+
+- [ ] ~~Ohuhu-Partyzelt (mit Gewichten) (25kg)~~
+- [ ] ~~Schrankplatte für blau gestreiften Schrank~~
+- [ ] Bettzeug
+- [X] Camping-Tisch/Hocker-Kombination (12kg)
+- [X] Campingstühle 3x (12kg)
+- [X] Haushaltkiste (6kg)
+- [X] Isomatte 1x
+- [X] Luftmatraze selbstaufblasend 1x
+- [X] Schlafsack Mama (1kg)
+- [ ] Schlafsack Samuel (1kg)
+- [X] Schrank blau gestreift (Stoff, Gestänge und Ecken) (3kg)
+- [X] Schwimmnudel mit Verschluss
+- [X] Toilettenpapier (2kg)
+- [X] Wäscheständer (2kg)
+- [X] Waschmaschine (10kg)
+  - [X] Badetücher (2kg)
+  - [X] Waschmittel (1kg)
+  - [X] Wäscheklammern
+- [X] Wasserkanister 2x (1x20l + 10l) (3kg)
+
+### Küche (13kg)
+
+- [ ] Emailletassen
+- [ ] Kochtopf?
+- [ ] Pfanne groß (2kg)
+- [ ] Schüssel
+- [ ] Tiegel (1kg)
+- [ ] Töpfe, Geschirr und Besteck (5kg)
+- [X] Wasserkanister 20l (1kg)
 
 ### In die Dachbox
 
+- [ ] ~~Bobbycar~~
+- [ ] ~~Fahrradanhänger~~
+- [ ] ~~Kaffeemaschine~~
 - [ ] ~~Wasserpackung~~
 - [ ] Badeschuhe
-- [ ] Bettzeug
-- [ ] ~~Bobbycar?~~
-- [ ] Campingclogs
-- [ ] Gasanzünder
-- [ ] ~~Kaffeemaschine?~~
-- [ ] Laufrad Holz (2kg)
-- [ ] Sandspielzeug, Drachen (2kg)
-- [ ] Stillkissen (1kg)
 - [ ] Badputzmittel
 - [ ] Bagger gelb
 - [ ] Ball
+- [ ] Bodenmatte neu (3kg)
+- [ ] Campingclogs
 - [ ] Desinfektion
-- [ ] Fahrradanhänger?
 - [ ] Fahrradhelme
 - [ ] Federball
+- [ ] Gasanzünder
 - [ ] Gaskocher inkl. 1 vollen Kartusche
 - [ ] Gummistiefel
+- [ ] Handtücher
 - [ ] Hüpfball
-- [ ] Isomatten 2x
+- [ ] Kinder-Campingstühle gelb
 - [ ] Küchentücher
-- [ ] Luftmatrazen selbstaufblasend 2x
-- [ ] Maxi-Taxi
+- [ ] Laufrad Holz (2kg)
+- [ ] Luftpumpe 220V
+- [ ] Maxi-Taxi + Sitzeinlage
+- [ ] Müllbeutel für Ständer
+- [ ] Nottoilette + Beutel + Streu (5kg)
 - [ ] Putzlappen
 - [ ] Sandspielzeug
+- [ ] Sandspielzeug, Drachen (2kg)
+- [ ] Schlafsack Emilia (1kg)
 - [ ] Schlafsack Papa
-- [ ] Schwimmnudel mit Verschluss
+- [ ] Schrank im grünen Sack (5kg)
+- [ ] Stillkissen (1kg)
+- [ ] Strandzelt groß (7kg)
 - [ ] Strom-Verlängerung rot 4-fach
+- [ ] Stromverteiler rot 4-fach
 - [ ] Tigerbikel (10kg)
-- [ ] Toilettenpapier (2kg)
+- [ ] Tigerbikel? (8kg)
 - [ ] Töpfchen
+- [ ] Trittstufe (5kg)
+- [ ] Wasserkocher schwarz
 - [ ] Wasserspritze
 - [ ] Windeln (2kg)
 
 ### In das Auto
 
-- [ ] Achslastwaage (Werkzeugfach)
-- [ ] Aufbauanleitung für Falti (Mittelkonsole)
+- [ ] ~~Peltier-Kühlbox~~
+- [ ] Bettlaken (welche Größe?)
 - [ ] blauer Campingstrom-Adapter (Mittelkonsole)
 - [ ] Bücher
+- [ ] Decken
 - [ ] DVD-Spieler?
+- [ ] Einhängeregal
 - [ ] Fahrzeugschein und TÜV von Falti
 - [ ] Funkgeräte
 - [ ] Gesellschaftsspiele
 - [ ] Handtücher
+- [ ] Hochstuhl?
 - [ ] Jacken
+- [ ] Kindersicherungen
+- [ ] Kleber
 - [ ] Kleidung
 - [ ] Kopfkissen
-- [ ] Kühlschrankersatz
-- [ ] Maulschlüssel 13er
-- [ ] Maulschlüssel 17er
-- [ ] Peltier-Kühlbox
+- [ ] Kreditkarte
+- [ ] Kühlakkus
+- [ ] Kühlbox klein gelb
+- [ ] Kühlpads
+- [ ] Plastikbügel, Kinderbügel
 - [ ] Radio mit Ladekabel
-- [ ] Reifenflickzeug
+- [ ] Rasierer
+- [ ] Reisefön
+- [ ] Seife
 - [ ] Sonnenbrillen und -hüte
 - [ ] Sonnencreme
 - [ ] Spielzeugauswahl
 - [ ] Taschenmesser (Mittelkonsole)
+- [ ] Taschentücher
 - [ ] Telefone, Smartphones mit SD-Karten und Ladekabel
 - [ ] Wasserwaage (Werkzeugfach)
-- [ ] Werkzeugtüte (Werkzeugfach) mit Inbus-Set, Knochen, Zangen (Spitz + Kneifen + Klapptool), Hammer, Schraubendreher (kreuz + flach, Strom), Fahrrad-Multitool
+- [ ] Werkzeugtüte (Werkzeugfach) mit Inbus-Set, Knochen, Zangen (Spitz + Kneifen + Klapptool), Hammer, Schraubendreher (kreuz + flach, Strom), Fahrrad-Multitool, Maulschlüssel 13er+17er+???
+- [ ] WLAN-Router
+- [ ] Wurfzelt grün (5kg)
