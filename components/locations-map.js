@@ -16,19 +16,8 @@ export default class LocationsMap extends HTMLElement {
     `
     this.loadStyles(['../vendor/leaflet/leaflet.css'])
 
-    const defaultView = [51.5, -0.09]
-    const customView = this.getAttribute('view')
-    const view = customView? customView.split(','): defaultView
     this.mapNode = this.shadow.querySelector('#map')
-    this.map = L.map(this.mapNode).setView(view, this.getAttribute('zoom') || 13)
-
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    }).addTo(this.map)
-
-    // L.marker([51.5, -0.09]).addTo(this.map)
-    //   .bindPopup('A pretty CSS3 popup.<br> Easily customizable.')
-    //   .openPopup()
+    this.initMap()
   }
 
   attributeChangedCallback(name, oldVal, newVal) {
@@ -52,6 +41,21 @@ export default class LocationsMap extends HTMLElement {
           <p>${location.phone || ''} <a href="${location.web || ''}" target="_blank">${location.web || ''}</a></p>
         `)
     })
+  }
+
+  initMap () {
+    const defaultView = [51.5, -0.09]
+    const customView = this.getAttribute('view')
+    const view = customView? customView.split(','): defaultView
+    this.map = L.map(this.mapNode).setView(view, this.getAttribute('zoom') || 13)
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(this.map)
+
+    // L.marker([51.5, -0.09]).addTo(this.map)
+    //   .bindPopup('A pretty CSS3 popup.<br> Easily customizable.')
+    //   .openPopup()
   }
 
   async loadStyles (optionalStyles = []) {

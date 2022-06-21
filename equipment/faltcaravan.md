@@ -39,7 +39,7 @@
 
 ### Fahrradträger (90kg)
 
-- [ ] Fahrräder groß (Hollandrad, lila MTB, silbernes MTB) (3x20kg = 60kg)
+- [ ] Fahrräder groß (Hollandrad, lila MTB, silbernes MTB) (2x = 33kg)
 - [ ] Fahrradsitz Daniel
 
 ### Deichselbox (35kg)
@@ -171,7 +171,6 @@
 - [ ] Strandzelt groß (7kg)
 - [ ] Strom-Verlängerung rot 4-fach
 - [ ] Stromverteiler rot 4-fach
-- [ ] Tigerbikel (10kg)
 - [ ] Tigerbikel? (8kg)
 - [ ] Töpfchen
 - [ ] Trittstufe (5kg)

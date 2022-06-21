@@ -10,6 +10,7 @@ self.addEventListener('install', event => {
         cache.addAll([
           './',
           './index.html',
+          './styles.css',
           './icon_512x512.png',
           './icon.svg',
           './manifest.json',
@@ -43,14 +44,38 @@ self.addEventListener('install', event => {
 self.addEventListener('fetch', event => {
   event.respondWith(
     caches
-      .open(CACHE_NAME)
-      .then(cache => cache.match(event.request))
-      .then(async response => {
-        const { request } = event
-        return response ?? fetch(request)
+      .open(CACHE_NAME).then((cache) => {
+        return cache.match(event.request).then((response) => {
+          return (
+            response ||
+            fetch(event.request).then((response) => {
+              const isExtensionRequest = event.request.url.indexOf('extension://') > 0
+              const isMapTileRequest = event.request.url.indexOf('tile.openstreetmap.org') > 0
+              const mapZoomLevel = isMapTileRequest ? parseInt(event.request.url.split('/')[3]) : 0
+              // console.log(event.request.url, isMapTileRequest, mapZoomLevel, mapZoomLevel>5 && mapZoomLevel<13)
+              if (!isExtensionRequest && ((isMapTileRequest && mapZoomLevel>5 && mapZoomLevel<13) || !isMapTileRequest)) {
+                console.log('caching', event.request.url)
+                cache.put(event.request, response.clone())
+              }
+              return response
+            })
+          )
+        })
       })
   )
 })
+
+// self.addEventListener('fetch', event => {
+//   event.respondWith(
+//     caches
+//       .open(CACHE_NAME)
+//       .then(cache => cache.match(event.request))
+//       .then(async response => {
+//         const { request } = event
+//         return response ?? fetch(request)
+//       })
+//   )
+// })
 
 self.addEventListener('message', e => {
   console.log('A message received:', e)
