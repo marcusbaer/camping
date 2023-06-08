@@ -2,6 +2,7 @@
 
 ## Offene Punkte
 
+- [ ] Gasflasche testen
 - [ ] Batterien für Campinglampe
 - [ ] 2m 10mm Frischwasserschlauch kaufen
 
@@ -19,7 +20,7 @@
 
 ## Packliste
 
-### Garten
+### Garten / Keller
 
 - [ ] Wasserkocher
 - [ ] Beachzelt
@@ -44,85 +45,88 @@
 
 ### Deichselbox (35kg)
 
-- [X] Achslastwaage (1kg)
-- [X] Elektroheizer (3kg)
+- [ ] Achslastwaage (1kg)
+- [ ] Elektroheizer (3kg)
 - [ ] Gasflasche (12kg)
-- [X] Grill (2kg)
+- [ ] Grill (2kg)
 - [ ] Kühlschrank 40l (15kg)
-- [X] Unterlegkeile (2kg)
+- [ ] Unterlegkeile (2kg)
 
 ### Seitenkästen
 
-- [X] Aufbauanleitung für Falti (Mittelkonsole)
-- [X] Campingtisch neu (5kg)
-- [X] Erdbohrer für Sonnenschirm (2kg)
-- [X] Fahrradschlösser 2x (1kg)
-- [X] Falteimer
-- [X] Faltstühle groß 2x (10kg)
-- [X] Fußmatte
-- [X] Kabeltrommel klein (1kg)
-- [X] Kehrschaufel und -besen
-- [X] Kinder-Campingstuhl rot (1kg)
-- [X] Kopfkissen aufblasbar 1x
-- [X] Leuchtheringe
-- [X] Luftpumpe für Fahrrad
-- [X] Müllständer (2kg)
-- [X] Plane groß (2kg)
-- [X] Schlafsäcke 2x kleine als Decken (1kg)
-- [X] Sonnenschirm hellblau (2kg)
-- [X] Sonnensegel (2kg)
-- [X] Strandmatte
-- [X] Strandmuschel (2kg)
-- [X] Sturmleine (1kg)
-- [X] Verlängerungskabel, rote Stecker-Schutzbox
-- [X] Wasserschlauch rot 15m
-- [X] Wasserschläuche 10mm + Gartenschlauch
-- [X] Wind- und Sichtschutz (2kg)
+- [ ] Aufbauanleitung für Falti (Mittelkonsole)
+- [ ] Campingtisch neu (5kg)
+- [ ] Erdbohrer für Sonnenschirm (2kg)
+- [ ] Fahrradschlösser 2x (1kg)
+- [ ] Falteimer
+- [ ] Faltstühle groß 2x (10kg)
+- [ ] Fußmatte
+- [ ] Kabeltrommel klein (1kg)
+- [ ] Kehrschaufel und -besen
+- [ ] Kinder-Campingstuhl rot (1kg)
+- [ ] Kopfkissen aufblasbar 1x
+- [ ] Leuchtheringe
+- [ ] Luftpumpe für Fahrrad
+- [ ] Müllständer (2kg)
+- [ ] Plane groß (2kg)
+- [ ] Schlafsäcke 2x kleine als Decken (1kg)
+- [ ] Sonnenschirm hellblau (2kg)
+- [ ] Sonnensegel (2kg)
+- [ ] Strandmatte
+- [ ] Strandmuschel (2kg)
+- [ ] Sturmleine (1kg)
+- [ ] Verlängerungskabel, rote Stecker-Schutzbox
+- [ ] Wasserschlauch rot 15m
+- [ ] Wasserschläuche 10mm + Gartenschlauch
+- [ ] Wind- und Sichtschutz (2kg)
 
 ### Innenbereich
 
+- [ ] Fahrradanhänger + Räder
+
 #### Haushaltkiste
 
-- [X] Adapter 1/2 Zoll auf 10mm
-- [X] Campingdusche klein
-- [X] Campinglampen klein
-- [X] Campinglaterne mit Batterien
-- [X] Gummihammer neu
-- [X] Hängeorganizer
-- [X] Hängespiegel
-- [X] Heringe, Schnüre, Gummihammer in Tüte
-- [X] Müllbeutel klein
-- [X] Panzerband, Elektroband
-- [X] Reifenflickzeug
-- [X] Sattelschutz rot
-- [X] Schlauchschellen 8-16mm
-- [X] Spannseile für Fahrrad
-- [X] Taschenlampe 220V aufladbar
-- [X] Wäscheklammern
-- [X] Wäscheleine
-- [X] Wasseranschlüsse + Spritze + Hahnanschluss
+- [ ] Adapter 1/2 Zoll auf 10mm
+- [ ] ~~Campingdusche klein~~
+- [ ] Campinglampen klein
+- [ ] Campinglaterne mit Batterien
+- [ ] Gummihammer neu
+- [ ] Hängeorganizer
+- [ ] Hängespiegel
+- [ ] Heringe, Schnüre, Gummihammer in Tüte
+- [ ] Müllbeutel klein
+- [ ] Panzerband, Elektroband
+- [ ] Reifenflickzeug
+- [ ] Sattelschutz rot
+- [ ] Schlauchschellen 8-16mm
+- [ ] Spannseile für Fahrrad
+- [ ] Taschenlampe 220V aufladbar
+- [ ] Wäscheklammern
+- [ ] Wäscheleine
+- [ ] Wasseranschlüsse + Spritze + Hahnanschluss
 
 #### Allgemein
 
 - [ ] ~~Ohuhu-Partyzelt (mit Gewichten) (25kg)~~
 - [ ] ~~Schrankplatte für blau gestreiften Schrank~~
 - [ ] Bettzeug
-- [X] Camping-Tisch/Hocker-Kombination (12kg)
-- [X] Campingstühle 3x (12kg)
-- [X] Haushaltkiste (6kg)
-- [X] Isomatte 1x
-- [X] Luftmatraze selbstaufblasend 1x
-- [X] Schlafsack Mama (1kg)
+- [ ] Camping-Tisch/Hocker-Kombination (12kg)
+- [ ] Campingstühle 3x (12kg)
+- [ ] Haushaltkiste (6kg)
+- [ ] Isomatte 1x
+- [ ] Luftmatraze selbstaufblasend 1x
+- [ ] Schlafsack Mama (1kg)
 - [ ] Schlafsack Samuel (1kg)
-- [X] Schrank blau gestreift (Stoff, Gestänge und Ecken) (3kg)
-- [X] Schwimmnudel mit Verschluss
-- [X] Toilettenpapier (2kg)
-- [X] Wäscheständer (2kg)
-- [X] Waschmaschine (10kg)
-  - [X] Badetücher (2kg)
-  - [X] Waschmittel (1kg)
-  - [X] Wäscheklammern
-- [X] Wasserkanister 2x (1x20l + 10l) (3kg)
+- [ ] Schrank blau gestreift (Stoff, Gestänge und Ecken) (3kg)
+- [ ] Schwimmnudel mit Verschluss
+- [ ] Toilettenpapier (2kg)
+- [ ] Wäscheständer (2kg)
+- [ ] Waschmaschine (10kg)
+  - [ ] Badetücher (2kg)
+  - [ ] Waschmittel (1kg)
+  - [ ] Wäscheklammern
+- [ ] ~~Wasserkanister 20l (2kg)~~
+- [ ] Wasserkanister 10l (1kg)
 
 ### Küche (13kg)
 
@@ -132,7 +136,7 @@
 - [ ] Schüssel
 - [ ] Tiegel (1kg)
 - [ ] Töpfe, Geschirr und Besteck (5kg)
-- [X] Wasserkanister 20l (1kg)
+- [ ] Wasserkanister 20l (1kg)
 
 ### In die Dachbox
 
