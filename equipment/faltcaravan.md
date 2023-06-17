@@ -3,20 +3,19 @@
 ## Offene Punkte
 
 - [ ] Gasflasche testen
+- [ ] neue Fahrradträger bestellen
+- [ ] Dachbox und Fahrradträger montieren
+- [ ] Nottoilette vorbereiten
 - [ ] Batterien für Campinglampe
-- [ ] 2m 10mm Frischwasserschlauch kaufen
+- [ ] Kühlschrank füllen
+- [ ] Kühlschrank in Falti
+- [ ] Akku und Schalter für Wasserpumpe
 
 ## Aufgaben
 
 - [ ] Maulschlüssel Falti
 - [ ] Basisgewicht des Anhängers bestimmen
-- [ ] Abwasserschlauch testen
-- [ ] Thule Fahrradträger testen
-- [ ] Platten und Verschraubung der Fahrradträger
-- [ ] Gasflasche tauschen
 - [ ] Zuladung wiegen
-- [ ] Dachbox drauf
-- [ ] Kette lila Mountainbike
 
 ## Packliste
 
@@ -55,30 +54,29 @@
 ### Seitenkästen
 
 - [ ] Aufbauanleitung für Falti (Mittelkonsole)
-- [ ] Campingtisch neu (5kg)
-- [ ] Erdbohrer für Sonnenschirm (2kg)
-- [ ] Fahrradschlösser 2x (1kg)
+- [X] Campingtisch neu (5kg)
+- [X] Erdbohrer für Sonnenschirm (2kg)
+- [ ] Fahrradschlösser 2x (1kg) -- Schlüssel!
 - [ ] Falteimer
-- [ ] Faltstühle groß 2x (10kg)
-- [ ] Fußmatte
-- [ ] Kabeltrommel klein (1kg)
-- [ ] Kehrschaufel und -besen
-- [ ] Kinder-Campingstuhl rot (1kg)
-- [ ] Kopfkissen aufblasbar 1x
-- [ ] Leuchtheringe
+- [X] Faltstühle groß 2x (10kg)
+- [X] Fußmatte
+- [X] Kabeltrommel klein (1kg)
+- [X] Kehrschaufel und -besen
+- [X] Kopfkissen aufblasbar 1x
+- [X] Leuchtheringe
 - [ ] Luftpumpe für Fahrrad
-- [ ] Müllständer (2kg)
-- [ ] Plane groß (2kg)
-- [ ] Schlafsäcke 2x kleine als Decken (1kg)
-- [ ] Sonnenschirm hellblau (2kg)
-- [ ] Sonnensegel (2kg)
-- [ ] Strandmatte
-- [ ] Strandmuschel (2kg)
-- [ ] Sturmleine (1kg)
-- [ ] Verlängerungskabel, rote Stecker-Schutzbox
-- [ ] Wasserschlauch rot 15m
-- [ ] Wasserschläuche 10mm + Gartenschlauch
-- [ ] Wind- und Sichtschutz (2kg)
+- [X] Müllständer (2kg)
+- [X] Plane groß (2kg)
+- [X] Schlafsäcke 2x kleine als Decken (1kg)
+- [X] Sonnenschirm hellblau (2kg)
+- [X] Sonnensegel (2kg)
+- [X] Strandmatte
+- [X] Strandmuschel (2kg)
+- [X] Sturmleine (1kg)
+- [X] Verlängerungskabel, rote Stecker-Schutzbox
+- [X] Wasserschlauch rot 15m
+- [X] Wasserschläuche 10mm + Gartenschlauch
+- [X] Wind- und Sichtschutz (2kg)
 
 ### Innenbereich
 
@@ -86,47 +84,50 @@
 
 #### Haushaltkiste
 
-- [ ] Adapter 1/2 Zoll auf 10mm
+- [X] Adapter 1/2 Zoll auf 10mm
 - [ ] ~~Campingdusche klein~~
 - [ ] Campinglampen klein
 - [ ] Campinglaterne mit Batterien
 - [ ] Gummihammer neu
-- [ ] Hängeorganizer
-- [ ] Hängespiegel
-- [ ] Heringe, Schnüre, Gummihammer in Tüte
+- [X] Hängeorganizer
+- [X] Hängespiegel
+- [X] Heringe, Schnüre, Gummihammer in Tüte
 - [ ] Müllbeutel klein
 - [ ] Panzerband, Elektroband
 - [ ] Reifenflickzeug
-- [ ] Sattelschutz rot
-- [ ] Schlauchschellen 8-16mm
-- [ ] Spannseile für Fahrrad
-- [ ] Taschenlampe 220V aufladbar
+- [X] Sattelschutz rot
+- [X] Schlauchschellen 8-16mm
+- [X] Spannseile für Fahrrad
+- [X] Taschenlampe 220V aufladbar
 - [ ] Wäscheklammern
 - [ ] Wäscheleine
-- [ ] Wasseranschlüsse + Spritze + Hahnanschluss
+- [X] Wasseranschlüsse + Spritze + Hahnanschluss
 
 #### Allgemein
 
-- [ ] ~~Ohuhu-Partyzelt (mit Gewichten) (25kg)~~
-- [ ] ~~Schrankplatte für blau gestreiften Schrank~~
-- [ ] Bettzeug
-- [ ] Camping-Tisch/Hocker-Kombination (12kg)
-- [ ] Campingstühle 3x (12kg)
+- [X] ~~Ohuhu-Partyzelt (mit Gewichten) (25kg)~~
+- [X] ~~Schrankplatte für blau gestreiften Schrank~~
+- [X] Bettzeug
+- [X] Camping-Tisch/Hocker-Kombination (12kg)
+- [X] Campingstühle 3x (12kg)
 - [ ] Haushaltkiste (6kg)
-- [ ] Isomatte 1x
-- [ ] Luftmatraze selbstaufblasend 1x
-- [ ] Schlafsack Mama (1kg)
-- [ ] Schlafsack Samuel (1kg)
-- [ ] Schrank blau gestreift (Stoff, Gestänge und Ecken) (3kg)
-- [ ] Schwimmnudel mit Verschluss
+- [X] Isomatte 2x
+- [X] Luftmatraze selbstaufblasend 2x
+- [X] Schlafsack Mama (1kg)
+- [X] Schlafsack Samuel (1kg)
+- [X] Schrank blau gestreift (Stoff, Gestänge und Ecken) (3kg)
+- [X] Schwimmnudel mit Verschluss
 - [ ] Toilettenpapier (2kg)
 - [ ] Wäscheständer (2kg)
-- [ ] Waschmaschine (10kg)
+- [X] Waschmaschine (10kg)
   - [ ] Badetücher (2kg)
   - [ ] Waschmittel (1kg)
   - [ ] Wäscheklammern
-- [ ] ~~Wasserkanister 20l (2kg)~~
-- [ ] Wasserkanister 10l (1kg)
+- [X] Wasserkanister 20l (2kg)
+- [X] ~~Wasserkanister 10l (1kg)~~
+- [ ] Wasserpumpe
+- [ ] Akku für Pumpe
+- [ ] Fußschalter für Pumpe
 
 ### Küche (13kg)
 
@@ -147,30 +148,30 @@
 - [ ] Badeschuhe
 - [ ] Badputzmittel
 - [ ] Bagger gelb
-- [ ] Ball
-- [ ] Bodenmatte neu (3kg)
+- [X] Ball
+- [X] Bodenmatte neu (3kg)
 - [ ] Campingclogs
 - [ ] Desinfektion
 - [ ] Fahrradhelme
 - [ ] Federball
-- [ ] Gasanzünder
-- [ ] Gaskocher inkl. 1 vollen Kartusche
+- [X] Gasanzünder
+- [X] Gaskocher inkl. 1 vollen Kartusche
 - [ ] Gummistiefel
 - [ ] Handtücher
-- [ ] Hüpfball
-- [ ] Kinder-Campingstühle gelb
+- [X] Hüpfball
+- [X] Kinder-Campingstühle gelb
 - [ ] Küchentücher
 - [ ] Laufrad Holz (2kg)
-- [ ] Luftpumpe 220V
+- [X] Luftpumpe 220V
 - [ ] Maxi-Taxi + Sitzeinlage
 - [ ] Müllbeutel für Ständer
 - [ ] Nottoilette + Beutel + Streu (5kg)
 - [ ] Putzlappen
 - [ ] Sandspielzeug
 - [ ] Sandspielzeug, Drachen (2kg)
-- [ ] Schlafsack Emilia (1kg)
+- [X] Schlafsack Emilia (1kg)
 - [ ] Schlafsack Papa
-- [ ] Schrank im grünen Sack (5kg)
+- [X] Schrank im grünen Sack (5kg)
 - [ ] Stillkissen (1kg)
 - [ ] Strandzelt groß (7kg)
 - [ ] Strom-Verlängerung rot 4-fach
@@ -180,7 +181,7 @@
 - [ ] Trittstufe (5kg)
 - [ ] Wasserkocher schwarz
 - [ ] Wasserspritze
-- [ ] Windeln (2kg)
+- [X] Windeln (2kg)
 
 ### In das Auto
 
@@ -192,10 +193,10 @@
 - [ ] DVD-Spieler?
 - [ ] Einhängeregal
 - [ ] Fahrzeugschein und TÜV von Falti
-- [ ] Funkgeräte
+- [ ] Funkgeräte + Ladestation
 - [ ] Gesellschaftsspiele
 - [ ] Handtücher
-- [ ] Hochstuhl?
+- [ ] ~~Hochstuhl?~~
 - [ ] Jacken
 - [ ] Kindersicherungen
 - [ ] Kleber
@@ -216,7 +217,7 @@
 - [ ] Taschenmesser (Mittelkonsole)
 - [ ] Taschentücher
 - [ ] Telefone, Smartphones mit SD-Karten und Ladekabel
-- [ ] Wasserwaage (Werkzeugfach)
+- [X] Wasserwaage (Werkzeugfach)
 - [ ] Werkzeugtüte (Werkzeugfach) mit Inbus-Set, Knochen, Zangen (Spitz + Kneifen + Klapptool), Hammer, Schraubendreher (kreuz + flach, Strom), Fahrrad-Multitool, Maulschlüssel 13er+17er+???
 - [ ] WLAN-Router
-- [ ] Wurfzelt grün (5kg)
+- [X] ~~Wurfzelt grün (5kg)~~
