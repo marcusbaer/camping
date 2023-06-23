@@ -3,7 +3,6 @@
 ## Offene Punkte
 
 - [ ] Gasflasche testen
-- [ ] neue Fahrradträger bestellen
 - [ ] Dachbox und Fahrradträger montieren
 - [ ] Nottoilette vorbereiten
 - [ ] Batterien für Campinglampe
@@ -163,7 +162,7 @@
 - [ ] Küchentücher
 - [ ] Laufrad Holz (2kg)
 - [X] Luftpumpe 220V
-- [ ] Maxi-Taxi + Sitzeinlage
+- [ ] Bremen-Kinderwagen
 - [ ] Müllbeutel für Ständer
 - [ ] Nottoilette + Beutel + Streu (5kg)
 - [ ] Putzlappen
@@ -203,6 +202,7 @@
 - [ ] Kleidung
 - [ ] Kopfkissen
 - [ ] Kreditkarte
+- [ ] Authentifizierung Kto + Tel + TRT
 - [ ] Kühlakkus
 - [ ] Kühlbox klein gelb
 - [ ] Kühlpads
@@ -221,3 +221,5 @@
 - [ ] Werkzeugtüte (Werkzeugfach) mit Inbus-Set, Knochen, Zangen (Spitz + Kneifen + Klapptool), Hammer, Schraubendreher (kreuz + flach, Strom), Fahrrad-Multitool, Maulschlüssel 13er+17er+???
 - [ ] WLAN-Router
 - [X] ~~Wurfzelt grün (5kg)~~
+
+5410 5310 70

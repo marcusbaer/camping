@@ -28,6 +28,6 @@ nav a {
     filter: invert(100%);
   }
   locations-map {
-    filter: invert(100%);
+    /* filter: invert(100%); */
   }
 }
