@@ -2,7 +2,7 @@
 
 ## Offene Punkte
 
-- [ ] Gasflasche testen
+- [X] Gasflasche testen
 - [ ] Dachbox und Fahrradträger montieren
 - [ ] Nottoilette vorbereiten
 - [ ] Batterien für Campinglampe
@@ -12,7 +12,7 @@
 
 ## Aufgaben
 
-- [ ] Maulschlüssel Falti
+- [X] Maulschlüssel Falti
 - [ ] Basisgewicht des Anhängers bestimmen
 - [ ] Zuladung wiegen
 
@@ -25,11 +25,11 @@
 - [ ] gelber Stuhl
 - [ ] Kombizange
 - [ ] Wasserspritzen
-- [ ] Federball
+- [X] Federball
 - [ ] Sonnenhut gelb + Mama
 - [ ] grüne Werkzeugbox
 - [ ] Gaskocher mit Kartusche
-- [ ] Hüpfball
+- [X] Hüpfball
 - [ ] Töpfchen?
 
 ## Stauliste
@@ -221,5 +221,3 @@
 - [ ] Werkzeugtüte (Werkzeugfach) mit Inbus-Set, Knochen, Zangen (Spitz + Kneifen + Klapptool), Hammer, Schraubendreher (kreuz + flach, Strom), Fahrrad-Multitool, Maulschlüssel 13er+17er+???
 - [ ] WLAN-Router
 - [X] ~~Wurfzelt grün (5kg)~~
-
-5410 5310 70
