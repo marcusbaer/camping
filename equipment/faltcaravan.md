@@ -2,7 +2,10 @@
 
 ## Offene Punkte
 
-- [X] Gasflasche testen
+- [ ] Liste zurücksetzen und neu zusammenstellen
+- [ ] Zugänge abrufbar
+- [ ] Gasflasche testen
+- [ ] neue Fahrradträger bestellen
 - [ ] Dachbox und Fahrradträger montieren
 - [ ] Nottoilette vorbereiten
 - [ ] Batterien für Campinglampe
@@ -12,7 +15,7 @@
 
 ## Aufgaben
 
-- [X] Maulschlüssel Falti
+- [ ] Maulschlüssel Falti
 - [ ] Basisgewicht des Anhängers bestimmen
 - [ ] Zuladung wiegen
 
@@ -25,11 +28,11 @@
 - [ ] gelber Stuhl
 - [ ] Kombizange
 - [ ] Wasserspritzen
-- [X] Federball
+- [ ] Federball
 - [ ] Sonnenhut gelb + Mama
 - [ ] grüne Werkzeugbox
 - [ ] Gaskocher mit Kartusche
-- [X] Hüpfball
+- [ ] Hüpfball
 - [ ] Töpfchen?
 
 ## Stauliste
@@ -162,7 +165,7 @@
 - [ ] Küchentücher
 - [ ] Laufrad Holz (2kg)
 - [X] Luftpumpe 220V
-- [ ] Bremen-Kinderwagen
+- [ ] Maxi-Taxi + Sitzeinlage
 - [ ] Müllbeutel für Ständer
 - [ ] Nottoilette + Beutel + Streu (5kg)
 - [ ] Putzlappen
@@ -202,7 +205,6 @@
 - [ ] Kleidung
 - [ ] Kopfkissen
 - [ ] Kreditkarte
-- [ ] Authentifizierung Kto + Tel + TRT
 - [ ] Kühlakkus
 - [ ] Kühlbox klein gelb
 - [ ] Kühlpads
@@ -221,3 +223,5 @@
 - [ ] Werkzeugtüte (Werkzeugfach) mit Inbus-Set, Knochen, Zangen (Spitz + Kneifen + Klapptool), Hammer, Schraubendreher (kreuz + flach, Strom), Fahrrad-Multitool, Maulschlüssel 13er+17er+???
 - [ ] WLAN-Router
 - [X] ~~Wurfzelt grün (5kg)~~
+
+5410 5310 70
