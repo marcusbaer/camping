@@ -223,5 +223,3 @@
 - [ ] Werkzeugtüte (Werkzeugfach) mit Inbus-Set, Knochen, Zangen (Spitz + Kneifen + Klapptool), Hammer, Schraubendreher (kreuz + flach, Strom), Fahrrad-Multitool, Maulschlüssel 13er+17er+???
 - [ ] WLAN-Router
 - [X] ~~Wurfzelt grün (5kg)~~
-
-5410 5310 70
